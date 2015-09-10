@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            void
+tagline:          '...'
+description:      '...'
+url:              http://www.angelsimon.com.ar
+
+author:
+  name:           'Angel Simón'
+  url:            https://twitter.com/void
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/angelsimon
