@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Blog archive
+title: Blog Archive
 ---
-<div>
-  <h1>Blog Archive</h1>  
+<div>  
   {% for post in site.posts %}
   	{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   	{% if currentyear != year %}
