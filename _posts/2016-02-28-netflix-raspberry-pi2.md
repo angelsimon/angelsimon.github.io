@@ -46,7 +46,7 @@ sudo dpkg -i chromium-browser_45.0.2454.85-0ubuntu0.14.04.1.1097_armhf.deb</code
 
 De Ubuntu a tu Raspberry Pi
 
-<pre><code>sudo cp /your-directory/libwide* /usr/lib/chromium-browser</pre></code>
+<pre><code>sudo cp /your-directory/libwide* /usr/lib/chromium-browser</code></pre>
 
 
 7 - Inicia LXDE y Chromium
@@ -67,4 +67,7 @@ Indicator Flag        : IE</pre>
 8 - Seleccioná el perfil creado. Hacé click en el botón de User-Agent Switcher y seleccioná el perfil Netflix. Debería quedar el ícono con la palabra IE en rojo.
 
 9 - Ingresá a Netflix y mirá lo que quieras.
+
+
+Fuente: http://www.instructables.com/id/How-to-Nativly-Run-Netflix-on-a-Raspbery-PI2/
 
