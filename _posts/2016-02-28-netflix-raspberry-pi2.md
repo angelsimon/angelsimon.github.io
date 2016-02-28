@@ -19,7 +19,7 @@ Los pasos a seguir son los siguientes:
 
 <pre><code>sudo mkdir /media/ChromeOS
 
-sudo mount -r /dev/mapper/loop0p3 /media/ChromeOS</pre></code>
+sudo mount -r /dev/mapper/loop0p3 /media/ChromeOS</code></pre>
 
 4 - Visualizar el directorio montado
 
