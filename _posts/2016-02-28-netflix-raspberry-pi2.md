@@ -17,9 +17,9 @@ Los pasos a seguir son los siguientes:
 
 3 - Crear una carpeta para montar los archivos
 
-<pre><code>sudo mkdir /media/ChromeOS
+<pre><code>sudo mkdir /media/ChromeOS</code></pre>
 
-sudo mount -r /dev/mapper/loop0p3 /media/ChromeOS</code></pre>
+<pre><code>sudo mount -r /dev/mapper/loop0p3 /media/ChromeOS</code></pre>
 
 4 - Visualizar el directorio montado
 
