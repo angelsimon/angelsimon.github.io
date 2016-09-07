@@ -1,24 +1,40 @@
-# Dependencies
-markdown:         kramdown
-pygments:         true
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-# Permalinks
-permalink:        pretty
+# Basic
+name:               "void"
 
-# Setup
-title:            void
-tagline:          '...'
-description:      '...'
-url:              http://www.angelsimon.com.ar
+# URL
+baseurl:            "/"
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
 
-author:
-  name:           'Angel Simón'
-  url:            https://twitter.com/void
+# Markdown
+markdown:           rdiscount
 
-paginate:         5
+# Navigation
+nav:
+  - name:           "About"
+    href:           "http://www.angelsimon.com.ar"
+#  - name:           "Download"
+#    href:           "//github.com/gfjaru/Kiko/releases"
 
-# Custom vars
-version:          2.0.0
+# Sass
+sass:
+  style:            :compressed
 
-github:
-  repo:           https://github.com/angelsimon
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
