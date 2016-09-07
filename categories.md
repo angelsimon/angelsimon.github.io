@@ -2,8 +2,10 @@
 title: Categorías
 permalink: /categories/
 ---
+
 {% for tag in site.categories %} 
   <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+	*[{{tag[0}}](http://www.google.com)
   <ul class="post-list">
   	{% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
