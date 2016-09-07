@@ -16,7 +16,7 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "http://www.angelsimon.com.ar"
+    href:           "about.md"
 #  - name:           "Download"
 #    href:           "//github.com/gfjaru/Kiko/releases"
 
