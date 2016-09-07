@@ -17,8 +17,8 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           "about"
-	- name:						"Categorías"
-		href:						"categories"
+  - name:						"Categorías"
+    href:						"categories.html"
 #  - name:           "Download"
 #    href:           "//github.com/gfjaru/Kiko/releases"
 
