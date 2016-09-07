@@ -21,11 +21,9 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
     <div class="list-post-date">
-      <time>{{ post.date | date_to_string }}</time>
+      <time>{{ post.date | date_to_string }}</time> | 
+			<div style="category">{{ post.category }}</div>
     </div>
-		<div>
-			<p>{{ post.category }}</p>
-		</div>
   </div>
 {% endfor %}
 {% endif %}

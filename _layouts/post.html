@@ -9,8 +9,8 @@ layout: default
 <div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
+    <time>{{ page.date | date_to_string }}</time> |
+		<div style="category">{{ post.category }}</div>
   </div>
-	<div>{{ page.category }}</div>
   {{ content }}
 </div>
