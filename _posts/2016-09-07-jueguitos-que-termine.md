@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jueguitos que terminé
-category: Video juegos
+category: Videojuegos
 ---
 Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el final.
 
