@@ -6,7 +6,7 @@
 name:               "void"
 
 # URL
-baseurl:            ""
+baseurl:            "http://angelsimon.github.io"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
