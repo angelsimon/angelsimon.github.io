@@ -13,7 +13,7 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 </ul>
 <h2>2015</h2>
 <ul>
-<li>Little Samson | NES</li>
+<li><a href="http://angelsimon.github.io/2016/09/08/little-samson.html">Little Samson | NES</a></li>
 <li>Frankestein | NES</li>
 </ul>
 <h2>2014</h2>
