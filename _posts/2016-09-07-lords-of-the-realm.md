@@ -26,3 +26,7 @@ category: Videojuegos
 	<td>1, Multijador (en red)</td>
 </tr>
 </table>
+
+<div>
+Lords of the Realm es un juego medieval en el que el jugador debe tomar el rol de un "amo" o "señor" feudal de un poblado de Inglaterra.
+</div>
