@@ -2,6 +2,7 @@
 layout: post
 title: Jueguitos que terminé
 category: Videojuegos
+status: pinned
 ---
 Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el final.
 
