@@ -8,10 +8,10 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
   
   {% if content %}
-  <meta property="og:url"           content="{{ site.url }}{{ post.url }}" />
+  <meta property="og:url"           content="{% site.url %} http://www.angelsimon.com.ar" />
 	<meta property="og:type"          content="website" />
-	<meta property="og:title"         content="{{ post.title }}" />
-	<meta property="og:description"   content="{{ post.title }}" />
+	<meta property="og:title"         content="{% post.title %}" />
+	<meta property="og:description"   content="{% post.title %}" />
 	{% endif %}
   </head>
 <body>
