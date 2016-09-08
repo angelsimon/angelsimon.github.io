@@ -10,8 +10,14 @@
   background-color: #ccc;
   padding: 5px 5px 5px 5px;
 }
-.image centered{
+.image-centered{
   text-align:center;
+}
+.image-float-left{
+  padding: 0px 0px 5px 5px;
+}
+.image-float-right{
+  padding: 5px 0px 0px 5px;
 }
 
 * {
