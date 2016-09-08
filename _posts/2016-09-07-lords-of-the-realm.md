@@ -62,7 +62,6 @@ Al ser un juego de inicio de los 90s, no tiene los mejores gráficos que DOS pod
 <br><br>
 <div class="image-grid">
 <img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_1.png" />
-<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_2.gif" />
 <img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_3.png" />
 <img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_4.png" />
 <img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_5.png" />
