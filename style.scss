@@ -391,6 +391,20 @@ th {
 }
 
 .list {
+  
+  &-post-title-pinned {
+    margin-bottom: .25rem;
+    
+    a {
+      color: #888;
+      
+      &:hover,
+      &:focus {
+        text-decoration: none;
+      }
+    }
+  }
+  
   &-post-title {
     margin-bottom: .25rem;
     
@@ -409,6 +423,7 @@ th {
     text-transform: uppercase;
   }
 }
+
 
 .projects-list {
   a {
