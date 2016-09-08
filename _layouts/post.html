@@ -33,7 +33,9 @@ comments: true
 
 	<!-- Your like button code -->
 	<div class="fb-like" 
-		data-href="http://www.angelsimon.com.ar/ {{ site.baseurl }}" 
+	{% if page.url %}
+		data-href="{{ site.url }}{{ page.url }}" 
+  {% endif %}
 		data-layout="standard" 
 		data-action="like" 
 		data-show-faces="true">
