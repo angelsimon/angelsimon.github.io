@@ -15,6 +15,21 @@ layout: default
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
+<!-- Shows pinned posts -->
+{% for post in site.posts %}
+  {% if post.status == 'pinned' %}
+    <div class="list-item">
+      <h2 class="list-post-title-pinned">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <div class="list-post-date">
+      <time>{{ post.date | date_to_string }}</time> | 
+			<span class="category">{{ post.category }}</span>
+    </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
 {% for post in site.posts %}
   <div class="list-item">
     <h2 class="list-post-title">
