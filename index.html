@@ -19,6 +19,7 @@ layout: default
 {% for post in site.posts %}
   {% if post.status == 'pinned' %}
     <div class="list-item-pinned">
+      <img src="{{ site.baseurl }}/public/pinn.png" style="float:left; padding-right: 5px" />
       <h2 class="list-post-title-pinned">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h2>
