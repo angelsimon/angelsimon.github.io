@@ -39,11 +39,14 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <ul>
 <li>Super Mario Bros | NES</li>
 <li>Super Mario Bros 2 | NES</li>
-<li>Super Marios Bros 3 | NES</li>
+<li>Super Mario Bros 3 | NES</li>
 <li>Bomberman 2 | NES</li>
 <li>Contra | NES</li>
+<li>Felix The Cat | NES</li>
 <li>Chip & Dale | NES</li>
 <li>Snow Bros | NES</li>
 <li>Wolfenstein 3D | PC DOS</li>
 <li>Xargon: Episode 1 - Beyond Reality | PC DOS</li>
+<li>Black Stone: Aliens of Gold | PC DOS</li>
+<li>Mystic Towers | PC DOS</li>
 </ul>
