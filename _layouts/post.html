@@ -32,10 +32,8 @@ comments: true
 	}(document, 'script', 'facebook-jssdk'));</script>
 
 	<!-- Your like button code -->
-	<div class="fb-like" 
-	{% if page.url %}
+	<div class="fb-like">
 		data-href="{{ site.url }}{{ page.url }}" 
-  {% endif %}
 		data-layout="standard" 
 		data-action="like" 
 		data-show-faces="true">
