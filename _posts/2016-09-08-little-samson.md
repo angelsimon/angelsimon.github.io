@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Lords of the Realm
+title: Little Samson
 category: Videojuegos
 ---
 <table>
 <tr>
   <td class="greyed">Nombre</td>
 	<td>Little Samson</td>
-	<td colspan="2" rowspan="5" class="image-centered"><img src="{{page.baseurl}}/images/NES-LittleSamson.jpg" /></td>
+	<td colspan="2" rowspan="5" class="image-centered"><img src="{{site.baseurl}}/images/NES-LittleSamson.jpg" /></td>
 </tr>
 <tr>
   <td class="greyed">Año</td>
@@ -27,7 +27,7 @@ category: Videojuegos
 </tr>
 </table>
 <div>
-<img class="image-float-left" src="{{page.baseurl}}/images/samson.png" >Little Samson es un juego de plataformas que salió tardíamente para la consola NES.
+<img class="image-float-left" src="{{site.baseurl}}/images/samson.png" >Little Samson es un juego de plataformas que salió tardíamente para la consola NES.
 Es uno de esos juegos que si los hubiese jugado de chiquito, hubiese fanatizado inmediatamente. Tiene buenos gráficos, buena música y una gran jugabilidad.<br>
 
 
