@@ -19,10 +19,12 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <h2>2014</h2>
 <ul>
 <li>The Legend of Zelda: Oracle of Seasons | GameBoy Color</li>
+<li>New Super Mario Bros 2 | Nintendo 3DS</li>
 </ul>
 <h2>2013</h2>
 <ul>
 <li>LIMBO | PC</li>
+<li>New Super Mario Bros Wii | Nintendo Wii</li>
 </ul>
 <h2>2012</h2>
 <ul>
