@@ -60,17 +60,19 @@ Cuando capturamos un territorio pasa a formar parte de nuestras tierras y su pob
 Recomiendo el juego ya que es mi favorito de todos los tiempos. Comencé a jugarlo de niño, en una 386 con monitor monocromático. No lo entendía, no podía lograr tener éxito económico y perdía ante la primer invasión de mis enemigos. Pasado el tiempo, nunca lo dejé de lado. Cuando aprendí inglés logré entender la mecánica del juego y pude avanzar hasta ganarlo. Estos últimos años lo he seguido jugando cada tanto, siempre en modo Experto. Experimentando en diferentes plataformas como DOSBox en una RaspberryPi y FreeBox en Android en un celular.<br>
 Al ser un juego de inicio de los 90s, no tiene los mejores gráficos que DOS podía proveer. Tampoco será el mejor juego de gestión de economía, ciudad ni batalla. La IA del enemigo es básica. Pero tiene un encanto que atrapa. Por ejemplo, cuestiones de la economía como que el precio de los bienes decae si hay mucha oferta. Los granos no crecerán a la perfección si no rotamos la tierra ó que si nos atacan en pueblos vecinos nuestros pobladores tendrán la moral baja por superstición.
 <br><br>
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_1.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_2.gif" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_3.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_4.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_5.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_6.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_7.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_8.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_9.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_10.png" />
-<img class="image-grid" src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_11.png" />
+<div class="image-grid">
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_1.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_2.gif" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_3.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_4.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_5.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_6.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_7.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_8.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_9.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_10.png" />
+<img  src="{{site.baseurl}}/images/lords-of-the-realm/lords-of-the-realm_11.png" />
+</div>
 <br><br>
 El juego es considerado Abandonware y se puede descargar desde este <a href="http://www.myabandonware.com/game/lords-of-the-realm-2wu">link</a>.
 
