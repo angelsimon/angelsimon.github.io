@@ -29,24 +29,56 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 <li>Insomnia | Stephen King</li>
 <li>La larga marcha | Stephen King</li>
 </ul>
+
+
 <br><br>
-<style type="text/css" media="screen">
-.gr_grid_container {
-/* customize grid container div here. eg: width: 500px; */
-}
-.gr_grid_book_container {
-/* customize book cover container div here */
-float: left;
-width: 98px;
-height: 160px;
-padding: 0px 0px;
-overflow: hidden;
-}
-</style>
+  <style type="text/css" media="screen">
+  .gr_grid_container {
+  /* customize grid container div here. eg: width: 500px; */
+  }
+
+  .gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 98px;
+    height: 160px;
+    padding: 0px 0px;
+    overflow: hidden;
+  }
+  </style>
+  <div id="gr_grid_widget_1473462790">
+    <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+  <h2>
+  <a style="text-decoration: none;" href="https://www.goodreads.com/review/list/40370687-angel?shelf=currently-reading&utm_medium=api&utm_source=grid_widget">Actualmente leyendo</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="20.000 leguas de viaje submarino" href="https://www.goodreads.com/book/show/28462718-20-000-leguas-de-viaje-submarino"><img alt="20.000 leguas de viaje submarino" border="0" src="https://d2arxad8u2l0g7.cloudfront.net/books/1452077941m/28462718.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A Cook's Tour" href="https://www.goodreads.com/book/show/1019111.A_Cook_s_Tour"><img alt="A Cook's Tour" border="0" src="https://d2arxad8u2l0g7.cloudfront.net/books/1180282333m/1019111.jpg" /></a></div>
+    <br style="clear: both"/><br/>
+  </div>
+
+  </div>
+  <script src="https://www.goodreads.com/review/grid_widget/40370687.Actualmente%20leyendo?cover_size=medium&hide_link=&hide_title=&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1473462790" type="text/javascript" charset="utf-8"></script>
+
+
+<br><br>
+  <div id="gr_grid_widget_1473462659">
+    <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+  <h2>
+  <a style="text-decoration: none;" href="https://www.goodreads.com/review/list/40370687-angel?shelf=to-read&utm_medium=api&utm_source=grid_widget">Próximos a leer</a>
+  </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="The Making of Prince of Persia" href="https://www.goodreads.com/book/show/12917506-the-making-of-prince-of-persia"><img alt="The Making of Prince of Persia" border="0" src="https://d2arxad8u2l0g7.cloudfront.net/books/1329177639m/12917506.jpg" /></a></div>
+    <br style="clear: both"/><br/>
+  </div>
+  </div>
+  <script src="https://www.goodreads.com/review/grid_widget/40370687.Pr%C3%B3ximos%20a%20leer?cover_size=medium&hide_link=&hide_title=&num_books=20&order=a&shelf=to-read&sort=date_added&widget_id=1473462659" type="text/javascript" charset="utf-8"></script>
+
+<br><br>
 <div id="gr_grid_widget_1473461830">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
 <h2>
-  <a style="text-decoration: none;" href="https://www.goodreads.com/review/list/40370687-angel?shelf=read&utm_medium=api&utm_source=grid_widget">Angel's bookshelf: read</a>
+  <a style="text-decoration: none;" href="https://www.goodreads.com/review/list/40370687-angel?shelf=read&utm_medium=api&utm_source=grid_widget">Leídos</a>
 </h2>
 <div class="gr_grid_container">
 <div class="gr_grid_book_container"><a title="1984" href="https://www.goodreads.com/book/show/6988836-1984"><img alt="1984" border="0" src="https://d2arxad8u2l0g7.cloudfront.net/books/1255647375m/6988836.jpg" /></a></div>
