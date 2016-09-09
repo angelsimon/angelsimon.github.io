@@ -8,7 +8,7 @@ name:               "void"
 # URL
 baseurl:            "http://angelsimon.github.io"
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:          http://angelsimon.github.io/:year/:month/:day/:title.html
 
 # Markdown
 markdown:           kramdown
