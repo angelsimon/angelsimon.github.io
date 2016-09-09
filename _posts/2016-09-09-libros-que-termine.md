@@ -39,7 +39,7 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 float: left;
 width: 98px;
 height: 160px;
-padding: 0px 0px;
+padding: 10px 10px;
 overflow: hidden;
 }
 </style>
