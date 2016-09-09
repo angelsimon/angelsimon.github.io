@@ -43,7 +43,6 @@ padding: 0px 0px;
 overflow: hidden;
 }
 </style>
-
 <br><br>
 <div id="gr_grid_widget_1473463072">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -52,8 +51,7 @@ overflow: hidden;
 <div class="gr_grid_book_container"><a title="A Cook's Tour" href="https://www.goodreads.com/book/show/1019111.A_Cook_s_Tour"><img alt="A Cook's Tour" border="0" src="https://d2arxad8u2l0g7.cloudfront.net/books/1180282333m/1019111.jpg" /></a></div>
 </div>
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/40370687.Actualmente%20leyendo?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1473463072" type="text/javascript" charset="utf-8"></script>
-
+<script src="https://www.goodreads.com/review/grid_widget/40370687.Actualmente%20leyendo?cover_size=medium&hide_link=true&hide_title=&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1473463072" type="text/javascript" charset="utf-8"></script>
 <br><br>
 <div id="gr_grid_widget_1473463238">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -62,11 +60,10 @@ overflow: hidden;
 </h2>
 <div class="gr_grid_container">
 <div class="gr_grid_book_container"><a title="The Making of Prince of Persia" href="https://www.goodreads.com/book/show/12917506-the-making-of-prince-of-persia"><img alt="The Making of Prince of Persia" border="0" src="https://d2arxad8u2l0g7.cloudfront.net/books/1329177639m/12917506.jpg" /></a></div>
-<br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" href="https://www.goodreads.com/user/show/40370687-angel">Angel's favorite books »</a>
+<br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" href="https://www.goodreads.com/user/show/40370687-angel">Próximos a leer»</a>
 </div>
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/40370687.Pr%C3%B3ximos%20a%20leer?cover_size=medium&hide_link=&hide_title=&num_books=20&order=a&shelf=to-read&sort=date_added&widget_id=1473463238" type="text/javascript" charset="utf-8"></script>
-
+<script src="https://www.goodreads.com/review/grid_widget/40370687.Pr%C3%B3ximos%20a%20leer?cover_size=medium&hide_link=true&hide_title=&num_books=20&order=a&shelf=to-read&sort=date_added&widget_id=1473463238" type="text/javascript" charset="utf-8"></script>
 <br><br>
   <div id="gr_grid_widget_1473463304">
   <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
