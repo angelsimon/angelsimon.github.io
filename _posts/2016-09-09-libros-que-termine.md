@@ -8,26 +8,26 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 
 <h2>2016</h2>
 <ul>
-<li>A Cook's Tour | Anthony Bourdain (leyendo)</li>
-<li>20000 Leguas de viaje submarino | Julio Verne (leyendo)</li>
-<li>Colorado Kid | Stephen King</li>
+<li>A Cook's Tour, Anthony Bourdain (leyendo)</li>
+<li>20000 Leguas de viaje submarino, Julio Verne (leyendo)</li>
+<li>Colorado Kid, Stephen King</li>
 </ul>
 <h2>2015</h2>
 <ul>
-<li>El principito | Antoine de Saint-Exupéry</li>
-<li>Carrie | Stephen King</li>
+<li>El principito, Antoine de Saint-Exupéry</li>
+<li>Carrie, Stephen King</li>
 </ul>
 <h2>2014</h2>
 <ul>
-<li>1984 | George Orwell</li>
-<li>La Granja | George Orwell</li>
-<li>Cell | Stephen King</li>
+<li>1984, George Orwell</li>
+<li>La Granja, George Orwell</li>
+<li>Cell, Stephen King</li>
 </ul>
 <h2>2013</h2>
 <ul>
-<li>It | Stephen King</li>
-<li>Insomnia | Stephen King</li>
-<li>La larga marcha | Stephen King</li>
+<li>It, Stephen King</li>
+<li>Insomnia, Stephen King</li>
+<li>La larga marcha, Stephen King</li>
 </ul>
 
 <style type="text/css" media="screen">
