@@ -29,7 +29,7 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 <li>Insomnia | Stephen King</li>
 <li>La larga marcha | Stephen King</li>
 </ul>
-
+<br><br>
 <style type="text/css" media="screen">
 .gr_grid_container {
 /* customize grid container div here. eg: width: 500px; */
