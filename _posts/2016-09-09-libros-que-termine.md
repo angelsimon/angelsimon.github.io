@@ -53,7 +53,7 @@ overflow: hidden;
 }
 </style>
 <br/>
-<div style="display: block;">
+<div style="display: table-row-group;">
 <h2>Actualmente leyendo</h2>
 <div id="gr_grid_widget_1473463072">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -66,7 +66,7 @@ overflow: hidden;
 <br/><br/>
 <br/><br/>
 
-<div style="display: block;">
+<div style="display: table-row-group;">
 <h2>Próximos a leer</h2>
 <div id="gr_grid_widget_1473463238">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -78,7 +78,7 @@ overflow: hidden;
 
 <br/><br/>
 <br/><br/><br/>
-<div style="display: block;">
+<div style="display: table-row-group;">
 <h2>Leídos</h2>
 <div id="gr_grid_widget_1473463304">
   <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
