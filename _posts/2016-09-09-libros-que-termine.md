@@ -74,7 +74,7 @@ overflow: hidden;
 <script src="https://www.goodreads.com/review/grid_widget/40370687.Pr%C3%B3ximos%20a%20leer?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=to-read&sort=date_added&widget_id=1473463238" type="text/javascript" charset="utf-8"></script>
 </div>
 
-<div style="display: table-row-group; margin-top: 5px">
+<div style="display: table-row-group; margin-top: 15px">
 <h2>Leídos</h2>
 <div id="gr_grid_widget_1473463304">
   <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
