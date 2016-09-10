@@ -27,6 +27,7 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <ul>
 <li>LIMBO | PC</li>
 <li>New Super Mario Bros Wii | Nintendo Wii</li>
+<li>Kirby's Return to Dream Land | Nintendo Wii</li>
 </ul>
 <h2>2012</h2>
 <ul>
