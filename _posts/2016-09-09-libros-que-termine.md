@@ -18,6 +18,7 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 <li>Carrie, Stephen King</li>
 <li>La economía de tu vida, Tomás Bulat</li>
 <li>El viejo y el mar, Ernest Hemingway</li>
+<li>Historias inesperadas de la historia argentina, Daniel Balmaceda</li>
 </ul>
 <h2>2014</h2>
 <ul>
@@ -25,6 +26,7 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 <li>La Granja, George Orwell</li>
 <li>Cell, Stephen King</li>
 <li>Economía descubierta, Tomás Bulat</li>
+<li>Historia de las palabras, Daniel Balmaceda</li>
 </ul>
 <h2>2013</h2>
 <ul>
