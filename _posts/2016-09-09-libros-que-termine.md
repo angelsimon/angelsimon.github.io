@@ -53,7 +53,7 @@ overflow: hidden;
 }
 </style>
 <br/>
-<p>
+<div>
 <h2>Actualmente leyendo</h2>
 <div id="gr_grid_widget_1473463072">
 <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -62,11 +62,11 @@ overflow: hidden;
 </div>
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/40370687.Actualmente%20leyendo?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=currently-reading&sort=date_added&widget_id=1473463072" type="text/javascript" charset="utf-8"></script>
-</p>
+</div>
 <br/><br/>
 <br/><br/>
 
-<p>
+<div>
 
 <h2>Próximos a leer</h2>
 <div id="gr_grid_widget_1473463238">
@@ -75,11 +75,11 @@ overflow: hidden;
 
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/40370687.Pr%C3%B3ximos%20a%20leer?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=to-read&sort=date_added&widget_id=1473463238" type="text/javascript" charset="utf-8"></script>
-</p>
+</div>
 
 <br/><br/>
 <br/><br/><br/>
-<p>
+<div>
 <h2>Leídos</h2>
 <div id="gr_grid_widget_1473463304">
   <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
@@ -87,4 +87,4 @@ overflow: hidden;
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/40370687.Le%C3%ADdos?cover_size=medium&hide_link=true&hide_title=true&num_books=50&order=a&shelf=read&sort=date_added&widget_id=1473463304" type="text/javascript" charset="utf-8"></script>
 <br/><br/>
-</p>
+</div>
