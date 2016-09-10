@@ -16,6 +16,7 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <ul>
 <li><a href="http://angelsimon.github.io/2016/09/08/little-samson.html">Little Samson | NES</a></li>
 <li>Frankestein | NES</li>
+<li>McDonald's Treasure Land Adventure | Sega Genesis</li>
 </ul>
 <h2>2014</h2>
 <ul>
@@ -30,6 +31,7 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <h2>2012</h2>
 <ul>
 <li><a href="http://angelsimon.github.io/2016/09/07/lords-of-the-realm.html">Lords of the Realm | PC DOS</a></li>
+<li>Kirby's Adventure | NES</li>
 </ul>
 <h2>00s</h2>
 <ul>
