@@ -56,7 +56,7 @@ overflow: hidden;
 }
 </style>
 <br/>
-<table style="border:none ! important;">
+<table border="none" style="border:none;">
 <tr>
 <td>
 <h2>Actualmente leyendo</h2>
