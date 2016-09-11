@@ -8,8 +8,8 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 
 <h2>2016</h2>
 <ul>
-<li>A Cook's Tour &#9642; Anthony Bourdain (leyendo)</li>
 <li>20000 Leguas de viaje submarino &#9642; Julio Verne (leyendo)</li>
+<li>A Cook's Tour &#9642; Anthony Bourdain</li>
 <li>Colorado Kid &#9642; Stephen King</li>
 </ul>
 <h2>2015</h2>
