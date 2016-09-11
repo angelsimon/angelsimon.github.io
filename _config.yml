@@ -5,6 +5,8 @@
 # Basic
 name:               "void"
 
+paginate:         5
+
 # URL
 baseurl:            "http://angelsimon.github.io"
 #baseurl:            "" #For Root Domain
