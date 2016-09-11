@@ -47,11 +47,12 @@ Otra cuestión que afecta directamente a la felicidad es el reclutamiento de tro
 <br>
 El objetivo inicial del juego es lograr la autosustentabilidad económica y alimenticia de tu condado. Para ello es necesario comenzar a trabajar la tierra y explotar tres recursos iniciales:<br><br>
 - Ganado vacuno: El ganado vacuno es el más caro de comprar. Su costo rondará entre las 20 y 40 coronas. Necesitarás destinar parte de tu población a que se dedique como ganaderos para mantenerlos.
-<img src="{{site.baseurl}}/images/lords-of-the-realm/cow.png" class="image-float-right" />
+<img src="{{site.baseurl}}/images/lords-of-the-realm/vaca.png" class="image-float-right" />
 Esto provocará que con el tiempo, el ganado se reproduzca y multiplique. El ganado puede utilizarse para alimentación y comercialización. Se puede utilizar su carne como alimento, aunque no es muy redituable,
 o bien cada cabeza de ganado vacuno producirá por temporada (estación del año), una tonelada de productos lácteos. Con una tonelada de lácteos se puede alimentar a 10 personas.<br><br>
-- Ganado ovino: El ganado ovino no produce productos lácteos. Su valor de mercado es mucho menor a las vacas. Entre 10 y 20 coronas por cabeza. Necesitarás destinar parte de tu población a que se dedique como pastores para mantenerlos. La reproducción de las ovejas es mucho mayor. Pueden utilizarse para alimentación, aunque su carne no es tan rendidora. Y sobre todo, para la venta de la lana producto de la esquilación que se realiza en la temporada de primavera. El precio de la lana suele ser mucho mayor al de la oveja, por lo que, en poco tiempo se recupera la inversión y se logra un benficio económico.
-<img src="{{site.baseurl}}/images/lords-of-the-realm/oveja.png" class="image-float-right" />
+- Ganado ovino: El ganado ovino no produce productos lácteos. Su valor de mercado es mucho menor a las vacas. Entre 10 y 20
+<img src="{{site.baseurl}}/images/lords-of-the-realm/oveja.png" class="image-float-right" />coronas por cabeza. Necesitarás destinar parte de tu población a que se dedique como pastores para mantenerlos. La reproducción de las ovejas es mucho mayor. Pueden utilizarse para alimentación, aunque su carne no es tan rendidora. Y sobre todo, para la venta de la lana producto de la esquilación que se realiza en la temporada de primavera. El precio de la lana suele ser mucho mayor al de la oveja, por lo que, en poco tiempo se recupera la inversión y se logra un benficio económico.
+
 <br><br>
 - Granos: La cosecha de granos es la actividad más importante para lograr un condado estable. Los campesinos deberán sembrar los granos en invierno y luego de un año estarán listos para cosechar. El éxito o fracaso de la cosecha estará dada por: cuestiones climáticas, cantidad de campesinos y estado del suelo.<br>
 Por cada tonelada de granos que se siembra se puede, idealmente, obtener una siembra 10 veces mayor. Es decir, si sembramos 30 toneladas de granos obtendríamos en el mejor de los casos 300 toneladas.<br>
