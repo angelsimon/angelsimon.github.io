@@ -1,7 +1,7 @@
 ---
 ---
-//@import 'https://fonts.googleapis.com/css?family=Noto+Serif';
-@import 'https://fonts.googleapis.com/css?family=Catamaran';
+@import 'https://fonts.googleapis.com/css?family=Noto+Serif';
+//@import 'https://fonts.googleapis.com/css?family=Catamaran';
 
 .greyed{
   color:#666;
@@ -18,19 +18,19 @@
 }
 .image-float-left{
   //padding: 0px 0px 15px 15px;
-  padding-right: 15px;
-  padding-bottom: 15px;
-  padding-left: 0px;
-  padding-top: 0px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 0px;
+  margin-top: 0px;
   float: left;
   position: relative;
 }
 .image-float-right{
   //padding: 15px 0px 0px 15px;
-  padding-right: 0px;
-  padding-bottom: 15px;
-  padding-left: 15px;
-  padding-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-top: 0px;
   float: right;
   position: relative;
 }
@@ -276,6 +276,7 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+  border: 3px solid #666
 }
 
 table {
