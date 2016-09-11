@@ -27,9 +27,9 @@ category: Videojuegos
 </tr>
 </table>
 <div>
-<img class="image-float-left" src="{{site.baseurl}}/images/little-samson/samson.png" >Little Samson es un juego de plataformas que salió tardíamente para la consola NES.
+<img class="image-float-left no-border" src="{{site.baseurl}}/images/little-samson/samson.png" >Little Samson es un juego de plataformas que salió tardíamente para la consola NES.
 Es uno de esos juegos que si los hubiese jugado de chiquito, hubiese fanatizado inmediatamente. Tiene buenos gráficos, buena música y una gran jugabilidad.<br>
-<img class="image-float-right" src="{{site.baseurl}}/images/little-samson/samson2.png">Me recuerda en parte a Megaman. Es decir, un juego de plataformas 2D donde debes avanzar hacia la derecha mayoritariamente. Aunque en ocasiones debes subir plataformas o bajarlas. Siempre disparando a tus enemigos.<br>
+<img class="image-float-right no-border" src="{{site.baseurl}}/images/little-samson/samson2.png">Me recuerda en parte a Megaman. Es decir, un juego de plataformas 2D donde debes avanzar hacia la derecha mayoritariamente. Aunque en ocasiones debes subir plataformas o bajarlas. Siempre disparando a tus enemigos.<br>
 Pero a diferencia de Megaman que obtiene sus poderes extra venciendo a sus enemigos. En este juego no controlas un solo personaje, sino a 4.<br>
 Los personajes que controlas son:<br><br>
 - Little Samson: Es el protagonista humano. Con quien inicias el juego. El personaje lanza campanas a sus enemigos como proyectiles. Es capaz de saltar más altos que cualquier de los otros personajes. Tiene la capacidad de aferrarse de las paredes y sostenerse de los techos. <br><br>
