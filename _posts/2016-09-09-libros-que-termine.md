@@ -8,37 +8,37 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 
 <h2>2016</h2>
 <ul>
-<li>A Cook's Tour, Anthony Bourdain (leyendo)</li>
-<li>20000 Leguas de viaje submarino, Julio Verne (leyendo)</li>
-<li>Colorado Kid, Stephen King</li>
+<li>A Cook's Tour &#9642; Anthony Bourdain (leyendo)</li>
+<li>20000 Leguas de viaje submarino &#9642; Julio Verne (leyendo)</li>
+<li>Colorado Kid &#9642; Stephen King</li>
 </ul>
 <h2>2015</h2>
 <ul>
-<li>El principito, Antoine de Saint-Exupéry</li>
-<li>Carrie, Stephen King</li>
-<li>La economía de tu vida, Tomás Bulat</li>
-<li>El viejo y el mar, Ernest Hemingway</li>
-<li>Historias inesperadas de la historia argentina, Daniel Balmaceda</li>
-<li>Buscando a Papá Noel, Richard Paul Evans</li>
+<li>El principito &#9642; Antoine de Saint-Exupéry</li>
+<li>Carrie &#9642; Stephen King</li>
+<li>La economía de tu vida &#9642; Tomás Bulat</li>
+<li>El viejo y el mar &#9642; Ernest Hemingway</li>
+<li>Historias inesperadas de la historia argentina &#9642; Daniel Balmaceda</li>
+<li>Buscando a Papá Noel &#9642; Richard Paul Evans</li>
 </ul>
 <h2>2014</h2>
 <ul>
-<li>1984, George Orwell</li>
-<li>La Granja, George Orwell</li>
-<li>Cell, Stephen King</li>
-<li>Economía descubierta, Tomás Bulat</li>
-<li>Historia de las palabras, Daniel Balmaceda</li>
+<li>1984 &#9642; George Orwell</li>
+<li>La Granja &#9642; George Orwell</li>
+<li>Cell &#9642; Stephen King</li>
+<li>Economía descubierta &#9642; Tomás Bulat</li>
+<li>Historia de las palabras &#9642; Daniel Balmaceda</li>
 </ul>
 <h2>2013</h2>
 <ul>
-<li>It, Stephen King</li>
-<li>Insomnia, Stephen King</li>
-<li>La larga marcha, Stephen King</li>
-<li>A brief history of the Internet, Michael S Hart</li>
+<li>It &#9642; Stephen King</li>
+<li>Insomnia &#9642; Stephen King</li>
+<li>La larga marcha &#9642; Stephen King</li>
+<li>A brief history of the Internet &#9642; Michael S Hart</li>
 </ul>
 <h2>2012</h2>
 <ul>
-<li>La divina comedia, Dante Alighieri</li>
+<li>La divina comedia &#9642; Dante Alighieri</li>
 </ul>
 
 <style type="text/css" media="screen">
