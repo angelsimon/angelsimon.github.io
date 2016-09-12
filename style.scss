@@ -138,7 +138,9 @@ ul {
   }
   
  .fav{
-
+    content: "\f004";
+    font-family: FontAwesome;
+    color: #FF0000;
   }
   
   ul,
