@@ -43,7 +43,7 @@ layout: default
 {% endfor %}
 <hr />
 {% for post in paginator.posts %}
-{% if post.visible == 1 %}
+{% if post.visible == true %}
   <div class="list-item">
     <h2 class="list-post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
