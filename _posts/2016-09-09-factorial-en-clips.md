@@ -2,6 +2,7 @@
 layout: post
 title: Factorial en CLIPS
 category: Programación
+visible: true
 ---
 Clips es un lenguaje de programación orientado a la elaboración de sistemas expertos. 
 Es el acrónimo de C Language Integrated Production System y soporto tres paradigmas de programación: 
