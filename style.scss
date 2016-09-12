@@ -137,7 +137,7 @@ ul {
     margin-bottom: .25rem;
   }
   
- .fav{
+ li:before .fav{
     content: "\f004";
     font-family: FontAwesome;
     color: #FF0000;
