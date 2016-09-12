@@ -2,7 +2,7 @@
 layout: post
 title: Lords of the Realm
 category: Videojuegos
-visible: 1
+visible: true
 ---
 <table>
 <tr>
