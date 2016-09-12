@@ -2,6 +2,7 @@
 layout: post
 title: Little Samson
 category: Videojuegos
+visible: true
 ---
 <table>
 <tr>
