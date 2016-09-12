@@ -137,6 +137,10 @@ ul {
     margin-bottom: .25rem;
   }
   
+  li .fav{
+    list-style: &hearts;
+  }
+  
   ul,
   ol {
     margin-top: .25rem;
