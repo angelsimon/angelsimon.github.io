@@ -2,7 +2,7 @@
 layout: post
 title: Kid Dracula
 category: Videojuegos
-draft: true
+visible: false
 ---
 <table>
 <tr>
