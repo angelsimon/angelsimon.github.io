@@ -2,6 +2,7 @@
 layout: post
 title: Netflix en Raspberry Pi 2
 category: Linux
+visible: true
 ---
 <img align='center' src="{{site.baseurl}}/images/netflix-rpi2/header.png" />
 
