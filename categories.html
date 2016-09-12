@@ -7,7 +7,7 @@ permalink: /categories/
   <ul class="post-list">
     {% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
-      {% if post.title != null %}
+      {% if post.title != null && post.visible == true %}
       {% if group == null or group == post.group %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
