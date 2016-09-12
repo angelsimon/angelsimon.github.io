@@ -3,6 +3,7 @@ layout: post
 title: Libros que terminé
 category: Libros
 status: pinned
+visible: true
 ---
 Un breve listado de todos los libros que leí y que estoy leyendo.
 
