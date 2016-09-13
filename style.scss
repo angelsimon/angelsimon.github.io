@@ -151,7 +151,13 @@ dd {
 }*/
 
 ul{ 
-  .fav li:before {
+  list-style: none;
+  
+  li{
+    list-style: inside circle;
+  }
+
+  .fav {
 	  content: "\2665";
 	  color: #9c5597;
   }
