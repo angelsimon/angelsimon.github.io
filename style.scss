@@ -130,7 +130,8 @@ dd {
 }
 
 ul {
-  list-style: inside circle;
+  /*list-style: inside circle;*/
+  list-style: none;
   padding-left: 0;
   
   li {
