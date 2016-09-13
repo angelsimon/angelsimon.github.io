@@ -18,21 +18,21 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 <li>El principito &#9642; Antoine de Saint-Exupéry</li>
 <li>Carrie &#9642; Stephen King</li>
 <li>La economía de tu vida &#9642; Tomás Bulat</li>
-<li class="fav">El viejo y el mar &#9642; Ernest Hemingway</li>
+<li>El viejo y el mar &#9642; Ernest Hemingway<div class="fav">&hearts;</div></li>
 <li>Historias inesperadas de la historia argentina &#9642; Daniel Balmaceda</li>
 <li>Buscando a Papá Noel &#9642; Richard Paul Evans</li>
 </ul>
 <h2>2014</h2>
 <ul>
-<li class="fav">1984 &#9642; George Orwell</li>
-<li class="fav">La Granja &#9642; George Orwell</li>
+<li>1984 &#9642; George Orwell <div class="fav">&hearts;</div></li>
+<li>La Granja &#9642; George Orwell <div class="fav">&hearts;</div></li>
 <li>Cell &#9642; Stephen King</li>
 <li>Economía descubierta &#9642; Tomás Bulat</li>
 <li>Historia de las palabras &#9642; Daniel Balmaceda</li>
 </ul>
 <h2>2013</h2>
 <ul>
-<li class="fav">It &#9642; Stephen King</li>
+<li>It &#9642; Stephen King <div class="fav">&hearts;</div></li>
 <li>Insomnia &#9642; Stephen King</li>
 <li>La larga marcha &#9642; Stephen King</li>
 <li>A brief history of the Internet &#9642; Michael S Hart</li>
