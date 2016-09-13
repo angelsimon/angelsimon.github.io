@@ -129,8 +129,8 @@ dd {
   margin-bottom: .5rem;
 }
 
-ul {
-  /*list-style: inside circle;*/
+/*ul {
+  //list-style: inside circle;
   list-style: none;
   padding-left: 0;
   
@@ -148,6 +148,10 @@ ul {
     margin-top: .25rem;
     margin-bottom: .5rem;
   }
+}*/
+ul li:before {
+	content: "\2665";
+	color: #9c5597;
 }
 
 ol {
