@@ -150,9 +150,11 @@ dd {
   }
 }*/
 
-ul li:before .fav {
-	content: "\2665";
-	color: #9c5597;
+ul{ 
+  .fav li:before {
+	  content: "\2665";
+	  color: #9c5597;
+  }
 }
 
 ol {
