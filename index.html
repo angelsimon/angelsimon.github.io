@@ -32,7 +32,7 @@ layout: default
     <div class="list-item-pinned">
       <img src="{{ site.baseurl }}/public/pinn.png" style="float:left; padding-right: 5px" />
       <h2 class="list-post-title-pinned">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <a title="{{post.description}}" alt="{{post.description}}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h2>
       <div class="list-post-date">
       <time>{{ post.date | date_to_string }}</time> | 
