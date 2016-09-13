@@ -323,10 +323,11 @@ th {
 }
 
 .masthead {
-  border-bottom: 1px solid #c9c9c9;
+  
 
   &-title {
     font-weight: 300;
+    border-bottom: 1px solid #c9c9c9;
     
     a {
       color: #333;
