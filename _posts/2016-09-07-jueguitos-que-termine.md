@@ -34,6 +34,7 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <ul>
 <li><a href="http://angelsimon.github.io/2016/09/07/lords-of-the-realm.html">Lords of the Realm &#9642; PC DOS</a><span class="fav">&hearts;</span></li>
 <li>Kirby's Adventure &#9642; NES</li>
+<li>Portal &#9642; PC</li>
 </ul>
 <h2>00s</h2>
 <ul>
