@@ -2,6 +2,7 @@
 layout: post
 title: Lords of the Realm
 category: Videojuegos
+description: Review del juego Lords of the Realm para DOS.
 visible: true
 ---
 <table>
