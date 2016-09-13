@@ -2,10 +2,11 @@
 layout: post
 title: Libros que terminé
 category: Libros
+description: Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 status: pinned
 visible: true
 ---
-Un breve listado de todos los libros que leí y que estoy leyendo.
+Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
