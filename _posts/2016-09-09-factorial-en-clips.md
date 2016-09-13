@@ -2,6 +2,7 @@
 layout: post
 title: Factorial en CLIPS
 category: Programación
+description: Un ejemplo práctico de cómo realizar el cálculo de factorial usando el lenguaje CLIPS.
 visible: true
 ---
 Clips es un lenguaje de programación orientado a la elaboración de sistemas expertos. 
