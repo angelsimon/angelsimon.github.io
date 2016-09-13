@@ -2,6 +2,7 @@
 layout: post
 title: Little Samson
 category: Videojuegos
+description: Review del juego Little Samson para NES.
 visible: true
 ---
 <table>
