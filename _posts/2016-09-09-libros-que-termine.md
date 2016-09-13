@@ -9,7 +9,7 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 
 <h2>2016</h2>
 <ul>
-<li>20000 Leguas de viaje submarino &#9642; Julio Verne (leyendo)</li>
+<li>20.000 Leguas de viaje submarino &#9642; Julio Verne (leyendo)</li>
 <li>A Cook's Tour &#9642; Anthony Bourdain</li>
 <li>Colorado Kid &#9642; Stephen King</li>
 </ul>
@@ -37,9 +37,14 @@ Un breve listado de todos los libros que leí y que estoy leyendo.
 <li>La larga marcha &#9642; Stephen King</li>
 <li>A brief history of the Internet &#9642; Michael S Hart</li>
 </ul>
-<h2>2012</h2>
+<h2>2000-2012</h2>
 <ul>
 <li>La divina comedia &#9642; Dante Alighieri</li>
+<li>La niebla &#9642; Stephen King</li>
+<li>La expedición &#9642; Stephen King</li>
+<li>Corazones en la Atlántida &#9642; Stephen King</li>
+<li>Los ojos del dragón &#9642; Stephen King</li>
+<li>Alicia en el país de las maravillas &#9642; Lewis Carroll</li>
 </ul>
 
 <style type="text/css" media="screen">
