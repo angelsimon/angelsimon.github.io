@@ -38,7 +38,9 @@ A medida que avanzamos, Kid Dracula podrá lanzar pequeños murciélagos como pr
 El uso de estas habilidades serán necesarias para poder vencer a los enemigos al final de cada nivel. Los cuales, muestran una variedad de patrones de ataque y movimientos.
 <br>
 Durante el juego, uno va coleccionando ítems que serán de utilidad. El ítem clásico es recuperar la vida que vamos perdiendo. Esto se logra comiendo un corazón pequeño que nos recobrará un punto de vida y un corazón grande que nos recobrará todos los puntos de vida. También, hay un ítem de un corazón dentro de un recuadro. Esto nos permitirá agregar un corazón más a nuestra barra de vida. <br><br>
-<img src= "{{ site.baseurl }}/images/kid-dracula/kid3.png" class="image-center" /><br>
+<div width="100%" class="image-center">
+<img src= "{{ site.baseurl }}/images/kid-dracula/kid3.png" /><br>
+</div>
 Otro ítem importante son las monedas. Conseguiremos una moneda cada vez que aniquilemos un enemigo utilizando un arma presionando el botón B. Éstas monedas nos servirán, luego de pasar el nivel, para jugar minijuegos y poder ganar más vidas.<br><br>
 <img src= "{{ site.baseurl }}/images/kid-dracula/kid4.png" class="image-float-left" />En pocas palabras, Kid Dracula es un juego muy divertido que nos tendrá con los reflejos desafiados al máximo entre saltos y disparos. Los niveles van aumentando en dificultad hasta llegar a ser realmente un reto. Un divertido juego, que se puede emular muy fácilmente en cualquier PC o celular.
 <br>
