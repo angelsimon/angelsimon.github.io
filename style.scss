@@ -149,7 +149,8 @@ dd {
     margin-bottom: .5rem;
   }
 }*/
-ul li:before {
+
+ul li:before .fav {
 	content: "\2665";
 	color: #9c5597;
 }
