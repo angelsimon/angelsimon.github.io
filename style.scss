@@ -129,9 +129,8 @@ dd {
   margin-bottom: .5rem;
 }
 
-/*ul {
-  //list-style: inside circle;
-  list-style: none;
+ul {
+  list-style: inside circle;
   padding-left: 0;
   
   li {
@@ -139,27 +138,14 @@ dd {
   }
   
   .fav{
-    content: "\2665\020";
-    color: #000000;
+    color: #FF0000;
+    margin-left: 5px;
   }
   
   ul,
   ol {
     margin-top: .25rem;
     margin-bottom: .5rem;
-  }
-}*/
-
-ul{ 
-  list-style: none;
-  
-  li{
-    list-style: inside circle;
-  }
-
-  .fav {
-	  content: "\2665";
-	  color: #9c5597;
   }
 }
 
