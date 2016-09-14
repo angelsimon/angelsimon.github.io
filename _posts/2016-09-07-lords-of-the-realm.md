@@ -3,13 +3,14 @@ layout: post
 title: Lords of the Realm
 category: Videojuegos
 description: Review del juego Lords of the Realm para DOS.
+ogimage: lords-of-the-realm/cover.png
 visible: true
 ---
 <table>
 <tr>
   <td class="greyed">Nombre</td>
 	<td>Lords of the Realm</td>
-	<td colspan="2" rowspan="5" class="image-centered"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lords_of_the_Realm_Coverart.png/220px-Lords_of_the_Realm_Coverart.png" /></td>
+	<td colspan="2" rowspan="5" class="image-centered"><img src="{{site.baseurl}}/images/lords-of-the-realm/cover.png" /></td>
 </tr>
 <tr>
   <td class="greyed">Año</td>
