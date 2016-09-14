@@ -10,13 +10,15 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <meta content="{{ site.name }}" property="og:site_name">
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@void" />
   <meta name="twitter:creator" content="@void" />
     {% if page.title %}
       <meta content="{{ page.title }}" property="og:title">
+      <meta content="{{ page.title }}" name="twitter:title">
     {% else %}
       <meta content="{{ site.title }}" property="og:title">
+      <meta content="{{ site.title }}" name="twitter:title">
     {% endif %}
     {% if page.title %}
       <meta content="article" property="og:type">
@@ -24,14 +26,17 @@
       <meta content="website" property="og:type">
     {% endif %}
     {% if page.ogimage %}
+      <meta content="{{ site.baseurl }}/images/{{ page.ogimage }}" name="twitter:image">
       <meta content="{{ site.baseurl }}/images/{{ page.ogimage }}" property="og:image" />
     {% else %}
       <meta content="{{ site.baseurl }}/public/ogimage.jpg" property="og:image" />
     {% endif %}
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
+      <meta content="{{ page.description }}" name="twitter:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
+      <meta content="{{ site.description }}" name="twitter:description">
     {% endif %}
     {% if page.url %}
       <meta content="{{ site.baseurl }}{{ page.url }}" property="og:url">
