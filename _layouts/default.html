@@ -20,6 +20,11 @@
     {% else %}
       <meta content="website" property="og:type">
     {% endif %}
+    {% if page.ogimage %}
+      <meta content="{{ site.baseurl }}{{ page.ogimage }}" property="og:image">
+    {% else %}
+      <meta content="{{ site.baseurl }}/public/ogimage.png" property="og:image">
+    {% endif %}
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
     {% else %}
