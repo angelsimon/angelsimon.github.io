@@ -21,7 +21,7 @@
       <meta content="website" property="og:type">
     {% endif %}
     {% if page.ogimage %}
-     <meta property="og:image" content="{{ site.baseurl }}/images/{{ page.ogimage }}" />
+      <meta content="{{ site.baseurl }}/images/{{ page.ogimage }}" property="og:image" />
     {% else %}
       <meta content="{{ site.baseurl }}/public/ogimage.jpg" property="og:image" />
     {% endif %}
