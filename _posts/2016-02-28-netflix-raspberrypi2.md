@@ -3,10 +3,12 @@ layout: post
 title: Netflix en Raspberry Pi 2
 category: Linux
 description: Instructivo que explica los pasos para hacer funcionar Netflix en una Raspberry Pi 2 con Raspbian.
-ogimage: netflix-rpi2/header.png
+ogimage: netflix-rpi2/rpi.png
 visible: true
 ---
-<img class="image-centered" src="{{site.baseurl}}/images/netflix-rpi2/header.png" />
+<div class="image-centered no-border">
+<img src="{{site.baseurl}}/images/netflix-rpi2/header.png" />
+</div>
 
 Así es, después de tanto configurar, probar, instalar, debuggear, etc. Se ha conseguido. Se puede ver Netflix en una Raspberry Pi 2. Para ello hay que seguir una serie de pasos no tan complejos y tener una versión de Raspbian actualizada. Sólo lo probé en la Raspberry Pi 2. Pero tal vez funcione en las versiones anteriores. Es probable que se note cierto lag en las anteriores por falta de memoria y procesador.
 
