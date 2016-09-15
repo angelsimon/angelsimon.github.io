@@ -4,7 +4,7 @@ title: Kid Dracula
 category: Videojuegos
 description: Review del juego Kid Dracula para GameBoy.
 ogimage: kid-dracula/kid1.png
-visible: false
+visible: true
 ---
 <table>
 <tr>
