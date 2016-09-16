@@ -301,12 +301,12 @@ th {
   text-align: left;
 }
 
-//.bicolor{
+.bicolor{
   tbody tr:nth-child(odd) td,
   tbody tr:nth-child(odd) th {
     background-color: #f9f9f9;
   }
-//}
+}
 
 .lead {
   font-size: 1.25rem;
