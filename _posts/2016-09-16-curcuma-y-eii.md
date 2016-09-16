@@ -57,7 +57,8 @@ Durante la última etapa del brote y la remisión investigué mucho sobre la enf
 Esto provee una serie de beneficios para el enfermo, en mi caso, acceder a un 100% de cobertura en la medicación en mi obra social. Y si no tenés obra social, el gobierno de la provincia donde vivas debería cubrirte el costo de los medicamentos.<br>
 Para acceder al certificado, es necesario participar de una junta médica donde evaluarán tu situación. A mí me extendieron un certificado por dos años que puede ser renovado.<br>
 La posibilidad de acceder al 100% de la medicación fue un alivio para mí. Inicialmente, tenía un 50% de cobertura por la obra social. Luego, un 70% por tratarse de una enfermeda crónica (tratamiento prolongado). Pero el 100% me da la tranquilidad de que voy a poder acceder a la medicación más allá de mi situación económica.<br>
-Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe tomar todos los días, para siempre. La dosis suele ser entre 2gr y 4gr por día. A continuación, detallo una tabla con las medicaciones que uno debería tomar en un brote y en remisión, el costo sin descuentos y el costo con los distintos descuentos. Para que se entiende el impacto económico que significa la enfermedad.<br>
+Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe tomar todos los días, para siempre. La dosis suele ser entre 2gr y 4gr por día. A continuación, detallo una tabla con las medicaciones que tengo que tomar en un brote y en remisión, el costo sin descuentos y el costo con los distintos descuentos. Para que se entiende el impacto económico que significa la enfermedad.<br>
+<h3>En remisión</h3>
 <table class="bicolor">
 <tr>
 <th width="20%">Droga</th>
@@ -78,6 +79,57 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <td>$ 720 c/u</td>
 </tr>
 </table>
+
+<h3>En un brote</h3>
+<table class="bicolor">
+<tr>
+<td>Mesalazina</td>
+<td>Pentasa</td>
+<td>4gr día</td>
+<td>2 cajas x 30</td>
+<td>$ 2400 c/u</td>
+<td>$ 1200 c/u</td>
+<td>$ 720 c/u</td>
+</tr>
+<tr>
+<th width="20%">Droga</th>
+<th width="20%">Marca</th>
+<th width="10%">Dosis</th>
+<th width="30%">Unidades x mes</th>
+<th width="10%">Costo</th>
+<th width="10%">50%</th>
+<th width="10%">70%</th>
+</tr>
+<tr>
+<td>*Meprednisona</td>
+<td>Deltisona B</td>
+<td>Dosis variables</td>
+<td>2 cajas x 20</td>
+<td>$ 450 c/u</td>
+<td>$ 225 c/u</td>
+<td>$ 135 c/u</td>
+</tr>
+<tr>
+<td>*Budesonida</td>
+<td>Budecort</td>
+<td>0,02 mg/ml</td>
+<td>4 cajas x 7</td>
+<td>$ 950 c/u</td>
+<td>$ 425 c/u</td>
+<td>$ 285 c/u</td>
+</tr>
+<tr>
+<td>Pantoprazol</td>
+<td>Pantozol</td>
+<td>40mg x día</td>
+<td>1 caja x 30 comprimidos</td>
+<td>$ 800 c/u</td>
+<td>$ 400 c/u</td>
+<td>$ 240 c/u</td>
+</tr>
+</table>
+<span>* Es uno o el otro, difícilmente se utilicen los dos simultáneamente.</span>
+<br>
 
 
 
