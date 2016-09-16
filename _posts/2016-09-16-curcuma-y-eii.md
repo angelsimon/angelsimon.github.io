@@ -62,10 +62,10 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <table class="bicolor">
 <tr>
 <th width="10%">Droga</th>
-<th width="10%">Marca</th>
-<th width="25%">Dosis</th>
-<th width="25%">Unidades x mes</th>
-<th width="10%">Costo</th>
+<th width="15%">Marca</th>
+<th width="20%">Dosis</th>
+<th width="20%">Unidades x mes</th>
+<th width="15%">Costo</th>
 <th width="10%">50%</th>
 <th width="10%">70%</th>
 </tr>
@@ -84,10 +84,10 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <table class="bicolor">
 <tr>
 <th width="10%">Droga</th>
-<th width="10%">Marca</th>
-<th width="25%">Dosis</th>
-<th width="25%">Unidades x mes</th>
-<th width="10%">Costo</th>
+<th width="15%">Marca</th>
+<th width="20%">Dosis</th>
+<th width="20%">Unidades x mes</th>
+<th width="15%">Costo</th>
 <th width="10%">50%</th>
 <th width="10%">70%</th>
 </tr>
