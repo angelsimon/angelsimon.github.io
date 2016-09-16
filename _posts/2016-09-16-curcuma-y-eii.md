@@ -162,11 +162,11 @@ El inicio del tratamiento será el 1° de Octubre de 2016 y aquí dejaré detall
 Gracias por leer.
 
 <ul class="fuentes">
-<li>Fundación más vida | Vivir con Colitis ulcerosa - <a href="http://www.masvida.org.ar/guias/167-vivir-con-colitis-ulcerosa.html" target="_blank">http://www.masvida.org.ar/guias/167-vivir-con-colitis-ulcerosa.html</a></li>
+<li>Fundación más vida | Vivir con Colitis ulcerosa - <a href="http://www.masvida.org.ar/guias/167-vivir-con-colitis-ulcerosa.html" target="_blank">Link</a></li>
 
-<li>MedlinePlus | Proteína C Reactiva - <a href="https://medlineplus.gov/spanish/ency/article/003356.htm" target="_blank">https://medlineplus.gov/spanish/ency/article/003356.htm</a></li>
+<li>MedlinePlus | Proteína C Reactiva - <a href="https://medlineplus.gov/spanish/ency/article/003356.htm" target="_blank">Link</a></li>
 
-<li>Pubmed.gov | Curcumin in Combination With Mesalamine... - <a href="http://www.ncbi.nlm.nih.gov/pubmed/25724700" target="_blank">http://www.ncbi.nlm.nih.gov/pubmed/25724700</a></li>
+<li>Pubmed.gov | Curcumin in Combination With Mesalamine... - <a href="http://www.ncbi.nlm.nih.gov/pubmed/25724700" target="_blank">Link</a></li>
 
 </ul>
 
