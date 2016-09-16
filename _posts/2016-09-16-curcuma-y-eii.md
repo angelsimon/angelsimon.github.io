@@ -141,11 +141,25 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 </tr>
 </table>
 <span>* Es uno o el otro, difícilmente se utilicen los dos simultáneamente.</span>
-<br>
+<br><br>
 Obviamente, habiendo accedido al 100% de cobertura. El total a abonar por mes en concepto de medicamentos es de <b>$ 0</b>. Lo cual es un beneficio enorme que marca una diferencia. Recomiendo a todos que tengan que pasar por esta enfermedad, que investiguen para poder tramitar el certificado.<br><br>
-En mi experiencia, mantener al mínimo el nivel de stress es el objetivo para lograr remisiones más largas. Pero es difícil. Una vez que dejé el corticoide, tuve unos meses de remisión pero pronto volvió un segundo brote en el año. Sí, un 2016 movido. En este caso fue con menor intensidad en el colon pero bastante fuerte en las artículaciones. Esta vez no quedé internado de casualidad pero tuve reposo por 15 días para cuidar las articulaciones.<br>
+En mi experiencia, mantener al mínimo el nivel de stress es el objetivo para lograr remisiones más largas. Pero es difícil. Una vez que dejé el corticoide, tuve unos meses de remisión pero pronto volvió un segundo brote en el año. Sí, un 2016 movido. En este caso fue con menor intensidad en el colon pero bastante fuerte en las artículaciones. Esta vez no quedé internado, de casualidad, pero tuve reposo por 15 días para cuidar las articulaciones.<br>
 Una forma que utilizan los médicos para evaluar la gravedad de la inflamación es en los análisis de sangre. Al parecer, el ítem PCR que es el acrónimo de Proteína C Reactiva (y no de Partido Comunista Argentino, por las dudas), mide rápidamente si el cuerpo está cursando un proceso de inflamación. Otro valor que tienen en cuenta es la Eritrosedimentación de 1 hora.<br>
-En mi último brote, la PCR que tiene un valor límite de 5 estaba en 101. La eritro que también debería estar en un valor bajo estaba en 80. De manual, el análisis de sangre coincide con los síntomas y otra ronda de corticoides para frenar la inflamación.<br>
+En mi último brote, la PCR que tiene un valor límite de 5 estaba en 101. La eritro que también debería estar en un valor bajo estaba en 80. De manual, el análisis de sangre coincide con los síntomas y otra ronda de corticoides para frenar la inflamación.<br><br>
+La enfermedad, una vez que uno la acepta como tal y que es parte de uno mismo. Que está en los genes. Es más llevadera. Hay que tratar de no deprimirse, de hacerle frente, de domarla. La familia, amistades, colegas, parejas, son muy importantes. Pero todo inicia en uno. Uno tiene que hacer las paces con su propio cuerpo. Es lo que te tocó, es feo, podría ser peor, podría ser distinto.. podría, pero la realidad es la única verdad.<br>
+Disfrutar de la vida en los momentos de remisión y refugiarse y solicitar ayuda a los seres queridos y médicos en los tiempos de brotes es la fórmula.<br>
+Mi plan inmediato fue reducir las horas laborales. Y dedicar el tiempo a hobbies, hacer deportes, cocinar, lo que a uno le guste. En mi caso, leer libros, jugar jueguitos, escribir posts que nadie leerá y pasar tiempo con mis seres queridos.<br>
+Artículos relacionados a la enfermedad también suele ser un material de lectura recurrente. En uno de los últimos me enteré que la cúrcuma (el condimento) tiene propiedades que demostraron lograr una desinflamación y consiguiente mantenimiento de la remisión cuando se proporciona en conjunto con la Mesalazina.<br><br>
+El paper en cuestión puede leerse <a href="http://www.ncbi.nlm.nih.gov/pubmed/25724700" target="_blank">aquí</a> y de aquí en adelante, el post continúa con mis anotaciones y reflexiones sobre el uso de la cúrcuma para tratar la colitis ulcerosa por el lapso de un año. Anotaré las cuestiones positivas y negativas que note para cualquier que quiera leerlo. Obviamente, cualquiera que quiera utilizar este tratamiento debería consultarlo con su médico gastroenterólogo. Ya que cada cuadro es distinto.<br><br>
+Por último, antes de comenzar con la sección Cúrcuma que da nombre al post y al "Proyecto". Quiero hacer principal hincapié en la <a href="http://www.masvida.org.ar/" target="_blank">Fundación Más Vida</a>. La misma es una fundación sin fines de lucro que contribuye en la prevención, promoción y educación de la salud con especial enfoque en la Enfermedad Inflamatoria Intestinal (Enfermedad de Crohn, Colitis Ulcerosa y Colitis Indeterminada). stimulando la realización e implementación de actividades vinculadas con el desarrollo médico, psicosocial y comunitario, desde un abordaje interdisciplinario.<br><br>
+A quien quiera, los invito a colaborar con la fundación. Se pueden <a href="http://www.masvida.org.ar/unite-a-mas-vida.html" target="_blank">realizar donaciones</a> desde su sitio web con diferentes medios de pago como Tarjeta de crédito, transferencia bancaria, Pago Fácil, RapiPago, etc.
+<br><br>
+<h2>Cúrcuma como tratamiento</h2>
+El inicio del tratamiento será el 1° de Octubre de 2016 y aquí dejaré detallado los aspectos relevantes que encuentre del mismo.
+
+<br><br>
+
+Gracias por leer.
 
 
 
