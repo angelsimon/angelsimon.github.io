@@ -2,6 +2,7 @@
 layout: post
 title: Cúrcuma y enfermedad inflamatoria intestinal
 description: Breve explicación de las EII y mi proyecto de utilizar cúrcuma en conjunto con la medicación para mantener la remisión.
+category: Proyectos
 tags: ["mis proyectos", "salud", "eii", "colitis ulcerosa"]
 ogimage: cu-1/ogimage.png
 visible: false
