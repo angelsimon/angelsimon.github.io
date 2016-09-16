@@ -3,22 +3,5 @@ title: Tags
 permalink: /tags/
 ---
 {% for tag in site.tags %} 
-  <h2 id="{{ tag }}">{{ tag | capitalize }}</h2>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% if post.title != null and post.visible == true %}
-      {% if group == null or group == post.group %}
-      
-      {% for ptag in post.tags %}
-        {% if tag == ptag %}
-          <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% endfor %}
-    
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
+  <h2 id="{{ tag }}">{{ tag }}</h2>
 {% endfor %}
