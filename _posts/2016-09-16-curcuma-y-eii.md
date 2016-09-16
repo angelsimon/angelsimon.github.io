@@ -77,7 +77,7 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <td>$ 1200 c/u</td>
 <td>$ 720 c/u</td>
 </tr>
-
+</table>
 
 
 
