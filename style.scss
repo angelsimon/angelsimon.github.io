@@ -290,7 +290,7 @@ table {
   margin-bottom: 1rem;
   width: 100%;
   /*border: 1px solid #c3c3c3;*/
-  border: 1px solid #666;
+  border: 1px solid #000;
   border-collapse: collapse;
 }
 
@@ -302,7 +302,7 @@ th {
 }
 
 .bicolor tbody tr:nth-child(even) td, .bicolor tbody tr.even td {
-    background:#f9f9f9;
+    background:#c3c3c3;
 }
 /*.bicolor{
   tbody tr:nth-child(odd) td,
