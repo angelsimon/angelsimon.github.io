@@ -33,9 +33,10 @@ comments: true
     <time>{{ page.date | date_to_string }}</time> |
 		<span class="category">{{ page.category }}</span> | 
 		<!-- Tags 4 -->
-		{% for tag in page.tags %}
-		  <span class="tag">{{ tag }},</span>
-		{% endfor %}
+		{% for i=0; i<page.tags.count; i++ %}
+		  <span class="tag">{{ page.tags[i] }},</span>
+		  
+		{% endfor %} |
   </div>
   {{ content }}
 
