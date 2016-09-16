@@ -6,15 +6,17 @@
 .tags-holder{
   display: flex;
   flex-wrap: wrap;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 .tag-count{
   color:#666;
   background-color: #ccc;
-  font-size:14px;
+  font-size:16px;
   display: block;
   a{
     color: #268bd2;
-  text-decoration: none;
+    text-decoration: none;
   
   &:hover,
   &:focus {
