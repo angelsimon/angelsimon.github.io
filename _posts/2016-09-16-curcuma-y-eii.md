@@ -15,7 +15,7 @@ En mi caso, padezco colitis ulcerosa. Este post explicará brevemente de qué se
 medicaciones, cómo me las arreglé con la enfermedad y mi "proyecto" de utilizar cúrcuma como medicina que documentaré aquí mismo.
 <br>
 <h2>Colitis ulcerosa</h2>
-La colitis ulcerosa. A partir de ahora: CU. Es una EII (Enfermedad inflamatoria intestinal), por lo tanto, una enfermedad considerada autoinmune que se caracteriza por atacar al colon y ulcerarlo. Los síntomas entonces, suelen empezar por el colon y el sistema digestivo. El diagnostico de la enfermedad se suele confirmar con una colonoscopia, pero antes necesitarás varias consultas con tu gastroenterólogo ya que no es una enfermedad común. De hecho, es considerada una EPOF - Enfermedad Poco Frecuente. Por definición la OMS considera una enfermedad como de baja prevalencia a una condición que afecte a de 650 a 1000 personas por millón de habitantes (1:1500 - 1:1000). Es decir, uno de cada mil aproximadamente[^1].<br>
+La colitis ulcerosa. A partir de ahora: CU. Es una EII (Enfermedad inflamatoria intestinal), por lo tanto, una enfermedad considerada autoinmune que se caracteriza por atacar al colon y ulcerarlo. Los síntomas entonces, suelen empezar por el colon y el sistema digestivo. El diagnostico de la enfermedad se suele confirmar con una colonoscopia, pero antes necesitarás varias consultas con tu gastroenterólogo ya que no es una enfermedad común. De hecho, es considerada una EPOF - Enfermedad Poco Frecuente. Por definición la OMS considera una enfermedad como de baja prevalencia a una condición que afecte a de 650 a 1000 personas por millón de habitantes (1:1500 - 1:1000). Es decir, uno de cada mil aproximadamente.<br>
 <h2>Síntomas</h2>
 El primer síntoma que tal vez experimentes es una mayor frecuencia en tus idas al baño. El mismo suele verse afectado progresivamente. La cantidad de veces al día pasa de ser de uno a dos, de dos a tres (como diría la canción de Soda Stereo), pero luego pasan a ser cuatro y así uno puede llegar a tener más de diez evacuaciones por día.<br>
 Las evacuaciones, debido a las ulceraciones del colon, suelen estar acompañadas por mucosa y sangre. La mucosa es similar a una congestión cuando estamos resfriados. De mismo aspecto y color parecido. Cuando aparece la sangre, todo se tiñe de rojo y es el síntoma que suele llevarte al médico.<br>
@@ -161,5 +161,12 @@ El inicio del tratamiento será el 1° de Octubre de 2016 y aquí dejaré detall
 
 Gracias por leer.
 
+<ul class="fuentes">
+<li>Fundación más vida | Vivir con Colitis ulcerosa - <a href="http://www.masvida.org.ar/guias/167-vivir-con-colitis-ulcerosa.html" target="_blank">http://www.masvida.org.ar/guias/167-vivir-con-colitis-ulcerosa.html</a></li>
 
+<li>MedlinePlus | Proteína C Reactiva - <a href="https://medlineplus.gov/spanish/ency/article/003356.htm" target="_blank">https://medlineplus.gov/spanish/ency/article/003356.htm</a></li>
+
+<li>Pubmed.gov | Curcumin in Combination With Mesalamine... - <a href="http://www.ncbi.nlm.nih.gov/pubmed/25724700" target="_blank">http://www.ncbi.nlm.nih.gov/pubmed/25724700</a></li>
+
+</ul>
 
