@@ -7,13 +7,14 @@ permalink: /categories/
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign cat_words = site_cats | split:',' | sort %}
 
-{% for item in (0..site.categories.size) %}{% unless forloop.last %}
+<div class="tags-holder">
+  {% for item in (0..site.categories.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ cat_words[item] }}{% endcapture %}
       <a href="#{{ this_word | cgi_escape }}" class="tag-count">{{ this_word }}
         <span>({{ site.categories[this_word].size }})</span></a>
   {% endunless %}{% endfor %}
-
-<br>
+</div>
+<hr/>
 <!-- Posts by Categories -->
 <div>
   {% for item in (0..site.categories.size) %}{% unless forloop.last %}
