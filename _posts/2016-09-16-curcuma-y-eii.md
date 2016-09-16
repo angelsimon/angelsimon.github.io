@@ -61,10 +61,10 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <h3>En remisión</h3>
 <table class="bicolor">
 <tr>
-<th width="20%">Droga</th>
-<th width="20%">Marca</th>
-<th width="10%">Dosis</th>
-<th width="30%">Unidades x mes</th>
+<th width="10%">Droga</th>
+<th width="10%">Marca</th>
+<th width="25%">Dosis</th>
+<th width="25%">Unidades x mes</th>
 <th width="10%">Costo</th>
 <th width="10%">50%</th>
 <th width="10%">70%</th>
@@ -83,6 +83,15 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <h3>En un brote</h3>
 <table class="bicolor">
 <tr>
+<th width="10%">Droga</th>
+<th width="10%">Marca</th>
+<th width="25%">Dosis</th>
+<th width="25%">Unidades x mes</th>
+<th width="10%">Costo</th>
+<th width="10%">50%</th>
+<th width="10%">70%</th>
+</tr>
+<tr>
 <td>Mesalazina</td>
 <td>Pentasa</td>
 <td>4gr día</td>
@@ -90,15 +99,6 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <td>$ 2400 c/u</td>
 <td>$ 1200 c/u</td>
 <td>$ 720 c/u</td>
-</tr>
-<tr>
-<th width="20%">Droga</th>
-<th width="20%">Marca</th>
-<th width="10%">Dosis</th>
-<th width="30%">Unidades x mes</th>
-<th width="10%">Costo</th>
-<th width="10%">50%</th>
-<th width="10%">70%</th>
 </tr>
 <tr>
 <td>*Meprednisona</td>
