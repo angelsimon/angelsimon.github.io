@@ -34,14 +34,15 @@
 .category{
   background-color: #ccc;
   padding: 5px 5px 5px 5px;
+  color: #268bd2;
     a{
-    color: #268bd2;
-    text-decoration: none;
-  
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-  }
+      color: #268bd2;
+      text-decoration: none;
+    
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
   }
 }
 .image-centered{
