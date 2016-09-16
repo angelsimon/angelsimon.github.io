@@ -80,9 +80,9 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 </tr>
 <tr>
 <td colspan="4" style="text-align:right"><b>Total mensual aproximado:</b></td>
-<td>$4800</td>
-<td>$2400</td>
-<td>$1440</td>
+<td>$ 4800</td>
+<td>$ 2400</td>
+<td>$ 1440</td>
 </tr>
 </table>
 
@@ -135,13 +135,17 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 </tr>
 <tr>
 <td colspan="4" style="text-align:right"><b>Total mensual aproximado:</b></td>
-<td>$6000</td>
-<td>$3000</td>
-<td>$1800</td>
+<td>$ 6000</td>
+<td>$ 3000</td>
+<td>$ 1800</td>
 </tr>
 </table>
 <span>* Es uno o el otro, difícilmente se utilicen los dos simultáneamente.</span>
 <br>
+Obviamente, habiendo accedido al 100% de cobertura. El total a abonar por mes en concepto de medicamentos es de <b>$ 0</b>. Lo cual es un beneficio enorme que marca una diferencia. Recomiendo a todos que tengan que pasar por esta enfermedad, que investiguen para poder tramitar el certificado.<br><br>
+En mi experiencia, mantener al mínimo el nivel de stress es el objetivo para lograr remisiones más largas. Pero es difícil. Una vez que dejé el corticoide, tuve unos meses de remisión pero pronto volvió un segundo brote en el año. Sí, un 2016 movido. En este caso fue con menor intensidad en el colon pero bastante fuerte en las artículaciones. Esta vez no quedé internado de casualidad pero tuve reposo por 15 días para cuidar las articulaciones.<br>
+Una forma que utilizan los médicos para evaluar la gravedad de la inflamación es en los análisis de sangre. Al parecer, el ítem PCR que es el acrónimo de Proteína C Reactiva (y no de Partido Comunista Argentino, por las dudas), mide rápidamente si el cuerpo está cursando un proceso de inflamación. Otro valor que tienen en cuenta es la Eritrosedimentación de 1 hora.<br>
+En mi último brote, la PCR que tiene un valor límite de 5 estaba en 101. La eritro que también debería estar en un valor bajo estaba en 80. De manual, el análisis de sangre coincide con los síntomas y otra ronda de corticoides para frenar la inflamación.<br>
 
 
 
