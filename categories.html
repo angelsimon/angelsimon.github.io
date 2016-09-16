@@ -2,6 +2,20 @@
 title: Categorías
 permalink: /categories/
 ---
+{% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+
+<!-- `tag_words` is a sorted array of the tag names. -->
+{% assign cat_words = site_cats | split:',' | sort %}
+
+{% for item in (0..site.categories.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ cat_words[item] }}{% endcapture %}
+      <a href="#{{ this_word | cgi_escape }}" class="tag-count">{{ this_word }}
+        <span>({{ site.categories[this_word].size }})</span></a>
+  {% endunless %}{% endfor %}
+
+
+<!-- Old stuff -->
+
 {% for tag in site.categories %} 
   <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
   <ul class="post-list">
