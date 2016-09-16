@@ -31,7 +31,8 @@ comments: true
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
     <time>{{ page.date | date_to_string }}</time> |
-		<span class="category">{{ page.category }}</span>
+		<span class="category">{{ page.category }}</span> | 
+		<!-- Tags -->
 		{% for tag in post.tags %}
 		  <span class="tag">{{ tag }},</span>
 		{% endfor %}
