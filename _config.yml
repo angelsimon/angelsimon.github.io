@@ -15,8 +15,6 @@ permalink:          /:year/:month/:day/:title.html
 # Markdown
 markdown:           kramdown
 
-tags: linux raspberry-pi reviews
-
 # Navigation
 nav:
   - name:           "About"
