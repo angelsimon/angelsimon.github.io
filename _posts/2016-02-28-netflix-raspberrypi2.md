@@ -2,6 +2,7 @@
 layout: post
 title: Netflix en Raspberry Pi 2
 category: Linux
+tags: ["raspberry pi", "netflix", "linux", "instructivos"]
 description: Instructivo que explica los pasos para hacer funcionar Netflix en una Raspberry Pi 2 con Raspbian.
 ogimage: netflix-rpi2/rpi.png
 visible: true
