@@ -22,15 +22,23 @@ Las evacuaciones, debido a las ulceraciones del colon, suelen estar acompañadas
 Si éstos síntomas persisten, es probable que tengas lo que se denomina un brote. Las EII se caracterizan por tener dos estadíos: brote y remisión. Un brote es la aparición de los síntomas y el "despertar" de la enfermedad. Un brote debe ser tratado por médicos y más adelante hablaré de los tipos de brotes de CU.<br>
 La remisión es un estadío donde no hay síntomas, lo único que te recuerda a la enfermedad en períodos de remisión es que tenés que tomar medicación de por vida.<br>
 Otros síntomas que uno puede notar es dolor de artículaciones, es decir, artritis. Esto, sumado a la inflamación del intestino, provoca un desafío a la calidad de vida del paciente. Otros síntomas pueden ser inflamación de los ojos, llamado uveitis, fiebre y puntos rojos en cara y cuerpo.<br>
-En pocas palabras los síntomas más comunes son los siguientes:
-* Colitis (+10 evacuaciones por día).
-* Hemorragia
-* Fiebre
-* Artritis
-* Uveitis
-* Anemia
-* Pérdida de peso
-* Mala absorción de alimentos
+En pocas palabras los síntomas más comunes son los siguientes:<br>
+* Colitis (+10 evacuaciones por día)<br>
+* Hemorragia<br>
+* Fiebre<br>
+* Artritis<br>
+* Uveitis<br>
+* Anemia<br>
+* Pérdida de peso<br>
+* Llagas y aftas<br>
+* Mala absorción de alimentos<br><br>
+
+Los brotes, generalmente, se caracterizan por la afectación de la enfermedad. En el caso de la colitis ulcerosa, la afectación esta definida por la extensión de las ulceraciones en el colon. Existen cuatro categorías:<br>
+- <b>Proctitis ulcerosa</b>: la inflamación se limita al recto. Es el caso más leve. Los síntomas incluyen sangrado rectal, urgencias y dolor rectal.<br>
+- <b>Proctosigmoiditis</b>: afecta al recto y el colon sigmoideo (el segmento inferior del colon ubicado sobre el recto) Los síntomas incluyen diarrea con sangre, calambres abdominales y tenesmo (esfuerzo infructuoso por mover el vientre). En períodos activos de la enfermedad puede presentarse dolor moderado en el lado izquierdo inferior del abdomen.<br>
+- <b>Colitis izquierda</b>:  inflamación continua que comienza en el recto y se extiende hasta el ángulo esplénico (una curva en el colon cerca del bazo en el abdomen izquierdo superior). Los síntomas incluyen pérdida de apetito, pérdida de peso, diarrea con sangre y dolor agudo en la parte izquierda del abdomen.<br>
+- <b>Pancolitis</b>: afecta a todo el colon. Los síntomas incluyen pérdida de apetito, diarrea con sangre, dolor abdominal agudo y pérdida de peso.<br><br>
+
 
 
 
