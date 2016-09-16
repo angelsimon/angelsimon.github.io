@@ -34,7 +34,7 @@ comments: true
 		<span class="category">{{ page.category }}</span> | 
 		<!-- Tags 4 -->
 		{% for tag in page.tags %}
-		  <span class="tag">{{ tag }}</span>
+		  <span class="tag">{{ tag }} {{ forloop.index }} {{ page.tags.size }}</span>
 		  {% if forloop.index < page.tags.size-1 %}
 		    <span>, </span>
 		  {% endif %}
