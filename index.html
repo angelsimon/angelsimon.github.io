@@ -50,7 +50,7 @@ layout: default
     </h2>
     <div class="list-post-date">
       <time>{{ post.date | date_to_string }}</time> | 
-			<span class="category">{{ post.category }}</span>
+			<a href="{{ site.baseurl}}/categories#{{ post.category }}" class="category">{{ post.category }}</a>
     </div>
   </div>
   {% endif %}
