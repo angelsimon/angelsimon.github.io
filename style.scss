@@ -3,6 +3,10 @@
 //@import 'https://fonts.googleapis.com/css?family=Noto+Serif';
 @import 'https://fonts.googleapis.com/css?family=Catamaran';
 
+.tag-holder{
+  display: flex;
+  flex-wrap: wrap;
+}
 .tag-count{
   color:#666;
   background-color: #ccc;
