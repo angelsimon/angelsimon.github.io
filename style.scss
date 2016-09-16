@@ -294,12 +294,6 @@ table {
   border-collapse: collapse;
 }
 
-
-table[class]::before {
-    content: attr(class) ': ';
-}
-
-
 td,
 th {
   padding: .25rem .5rem;
@@ -307,8 +301,8 @@ th {
   text-align: left;
 }
 
-.bicolor tr:nth-child(even) {background: #fff;}
-.bicolor tr:nth-child(odd) {background: #f9f9f9;}
+.bicolor tr:nth-child(even) {background-color: #fff;}
+.bicolor tr:nth-child(odd) {background-color: #f9f9f9;}
 
 /*.bicolor{
   tbody tr:nth-child(odd) td,
