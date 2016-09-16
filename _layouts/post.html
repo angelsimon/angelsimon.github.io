@@ -34,6 +34,7 @@ comments: true
 		<span class="category">{{ page.category }}</span> | 
 		<!-- Tags -->
 		{%if page.tags.size > 0 %}
+		  <span>TAGS: </span>
   		{% for tag in page.tags %}
   		  <span class="tag">{{ tag }}</span>
   		  {% if forloop.index < page.tags.size %}
