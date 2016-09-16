@@ -13,14 +13,14 @@ permalink: /categories/
         <span>({{ site.categories[this_word].size }})</span></a>
   {% endunless %}{% endfor %}
 
-
+<br>
 <!-- Posts by Categories -->
 <div>
   {% for item in (0..site.categories.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ cat_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
     <ul class="post-list">
-    {% for post in site.categories[this_word] %}{% if post.title != null %}
+    {% for post in site.categories[this_word] %}{% if post.title != null and post.visible == true %}
       
           <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
       
@@ -28,21 +28,3 @@ permalink: /categories/
     </ul>
   {% endunless %}{% endfor %}
 </div>
-
-<!-- Old stuff -->
-
-{% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-  <ul class="post-list">
-    {% assign pages_list = tag[1] %}  
-    {% for post in pages_list %}
-      {% if post.title != null and post.visible == true %}
-      {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
-{% endfor %}
