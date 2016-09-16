@@ -78,6 +78,12 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <td>$ 1200 c/u</td>
 <td>$ 720 c/u</td>
 </tr>
+<tr>
+<td colspan="4" style="text-align:right"><b>Total aproximado:</b></td>
+<td>$4800</td>
+<td>$2400</td>
+<td>$1440</td>
+</tr>
 </table>
 
 <h3>En un brote</h3>
@@ -126,6 +132,12 @@ Y es que es una enfermedad cara. La Mesalazina es una medicación que se debe to
 <td>$ 800 c/u</td>
 <td>$ 400 c/u</td>
 <td>$ 240 c/u</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:right"><b>Total aproximado:</b></td>
+<td>$6000</td>
+<td>$3000</td>
+<td>$1800</td>
 </tr>
 </table>
 <span>* Es uno o el otro, difícilmente se utilicen los dos simultáneamente.</span>
