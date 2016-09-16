@@ -39,6 +39,19 @@ Los brotes, generalmente, se caracterizan por la afectación de la enfermedad. E
 - <b>Colitis izquierda</b>:  inflamación continua que comienza en el recto y se extiende hasta el ángulo esplénico (una curva en el colon cerca del bazo en el abdomen izquierdo superior). Los síntomas incluyen pérdida de apetito, pérdida de peso, diarrea con sangre y dolor agudo en la parte izquierda del abdomen.<br>
 - <b>Pancolitis</b>: afecta a todo el colon. Los síntomas incluyen pérdida de apetito, diarrea con sangre, dolor abdominal agudo y pérdida de peso.<br><br>
 
+Los tratamientos dependen de la categoría de CU, la gravedad del brote y la aceptación del paciente a la medicación.<br>
+
+<h2>Tratamientos</h2>
+Los tratamientos más utilizados para la colitis ulcerosa son:<br><br>
+- <b>Aminosalicilatos</b>: Incluyen drogas que contienen ácido aminosalicílico (5-ASA). Algunos ejemplos son sulfasalazina, mesalazina, olsalazina y balsalazida. Estas drogas funcionan para bajar la inflamación al nivel del revestimiento intestinal. También se utilizan como tratamiento de mantenimiento para evitar recaídas.<br>
+- <b>Corticosteroides</b>: Esta medicación afecta la capacidad del cuerpo de iniciar y mantener un proceso inflamatorio. Además, funciona como control del sistema inmunológico. Es eficaz para controlar ataques a corto plazo. Sin embargo, no se recomienda su uso prolongado debido a sus efectos secundarios. Si usted no puede dejar de tomar corticoides sin tener recaídas, es probable que su médico deba añadirle otra medicación para controlar su enfermedad.<br>
+- <b>Inmunomoduladores</b>: Este tipo de medicación modula la respuesta inmunológica del cuerpo de manera que no pueda causar inflamación constante. Por lo general, los inmunomoduladores se utilizan en aquellos pacientes que no obtuvieron una respuesta con los aminosalicilatos y corticosteroides, o bien que obtuvieron solo una respuesta parcial. Suelen ser útiles  para reducir o eliminar la necesidad de tomar corticoides. También son eficaces para mantener la remisión en pacientes que no respondieron a otra medicación. Los inmunomoduladores pueden demorar varios meses para comenzar a surtir efecto.<br>
+- <b>Terapias biológicas</b>: Las terapias biológicas, también conocidas como agentes anti-FNT, representan lo más nuevo en tipos de terapia utilizadas para tratar la Colitis Ulcerosa en pacientes que no han respondido a los tratamientos convencionales. FNT (TNF en inglés: factor de necrosis tumoral) es un químico producido por nuestro cuerpo para causar inflamación. Los anticuerpos son proteínas producidas para unirse a estos químicos y permitir que el cuerpo destruya al químico y reduzca la inflamación.<br>
+- <b>Cirugía</b>: La mayoría de los pacientes con Colitis Ulcerosa responden bien al tratamiento médico y quizás no necesiten nunca someterse a cirugía. Sin embargo, entre 25 y 33 % pueden requerir una intervención quirúrgica en algún momento.<br>A menudo, la cirugía se indica para evitar diferentes complicaciones. Estas incluyen sangrado severo debido a ulceraciones profundas, perforación de intestino y megacolon tóxico.<br>La cirugía también puede indicarse para remover todo el colon y recto (proctocolectomía) cuando los tratamientos  médicos ya no controlan bien la enfermedad o cuando se observan cambios pre-cancerígenos en el colon<br><br>
+
+<h2>Mi CU</h2>
+En mi caso, desde 2015 tengo proctosigmoiditis. 
+
 
 
 
