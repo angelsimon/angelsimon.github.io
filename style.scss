@@ -3,11 +3,20 @@
 //@import 'https://fonts.googleapis.com/css?family=Noto+Serif';
 @import 'https://fonts.googleapis.com/css?family=Catamaran';
 
-.tag_count{
+.tag-count{
   color:#666;
   background-color: #ccc;
   font-size:14px;
   display: block;
+  a{
+    color: #268bd2;
+  text-decoration: none;
+  
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+  }
 }
 
 .greyed{
