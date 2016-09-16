@@ -21,6 +21,8 @@ nav:
     href:           "about"
   - name:						"Categorías"
     href:						"categories"
+  - name:           "Tags"
+    href:           "tags"
 #  - name:           "Download"
 #    href:           "//github.com/gfjaru/Kiko/releases"
 
