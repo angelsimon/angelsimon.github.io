@@ -2,6 +2,7 @@
 layout: post
 title: Factorial en CLIPS
 category: Programación
+tags: ["programación", "código fuente", "ejemplos"]
 description: Un ejemplo práctico de cómo realizar el cálculo de factorial usando el lenguaje CLIPS.
 visible: true
 ---
