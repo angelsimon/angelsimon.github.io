@@ -294,6 +294,12 @@ table {
   border-collapse: collapse;
 }
 
+
+table[class]::before {
+    content: attr(class) ': ';
+}
+
+
 td,
 th {
   padding: .25rem .5rem;
