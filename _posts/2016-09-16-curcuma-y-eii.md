@@ -4,9 +4,10 @@ title: Cúrcuma y enfermedad inflamatoria intestinal
 description: Breve explicación de las EII y mi proyecto de utilizar cúrcuma en conjunto con la medicación para mantener la remisión.
 category: Proyectos
 tags: ["mis proyectos", "salud", "eii", "colitis ulcerosa"]
-ogimage: cu-1/ogimage.png
+ogimage: cu-1/ogimage.jpg
 visible: false
 ---
+<img src="{{site.baseurl}}/images/cu-1/cu4.jpg" class="image-float-right no-border" />
 Las enfermedades inflamatorias intestinales son enfermedades autoinmunes que se caracterizan por tener como foco de ataque
 al sistema digestivo. Principalmente, el intestino. Las principales enfermedades dentro de esta categoría son dos:
 Enfermedad de Crohn y Colitis ulcerosa. Ninguna de las dos tiene cura ni explicación de porqué surgen. Es una enfermedad crónica que deberás sobrellevar, por el momento, por el resto de tu vida.<br>
