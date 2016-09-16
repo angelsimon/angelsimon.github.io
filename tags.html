@@ -21,7 +21,7 @@ permalink: /tags/
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
     <ul class="post-list">
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
+    {% for post in site.tags[this_word] %}{% if post.title != null and post.visible == true %}
       
           <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
       
