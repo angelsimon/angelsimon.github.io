@@ -5,7 +5,7 @@ description: Breve explicación de las EII y mi proyecto de utilizar cúrcuma en
 category: Proyectos
 tags: ["mis proyectos", "salud", "eii", "colitis ulcerosa"]
 ogimage: cu-1/ogimage.jpg
-visible: false
+visible: true
 ---
 <img src="{{site.baseurl}}/images/cu-1/cu4.jpg" class="image-float-left no-border" />
 Las enfermedades inflamatorias intestinales son enfermedades autoinmunes que se caracterizan por tener como foco de ataque
