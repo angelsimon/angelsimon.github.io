@@ -2,7 +2,7 @@
 layout: post
 title: Kid Dracula
 category: Videojuegos
-tags: ["jueguitos", "gameboy", "reviews"]
+tags: ["videojuegos", "gameboy", "reviews"]
 description: Review del juego Kid Dracula para GameBoy.
 ogimage: kid-dracula/kid1.png
 visible: true
