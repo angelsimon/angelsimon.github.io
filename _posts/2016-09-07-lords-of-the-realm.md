@@ -2,7 +2,7 @@
 layout: post
 title: Lords of the Realm
 category: Videojuegos
-tags: ["dos", "videojuegos", "pc", "reviews"]
+tags: ["ms-dos", "videojuegos", "pc", "reviews"]
 description: Review del juego Lords of the Realm para DOS.
 ogimage: lords-of-the-realm/cover.png
 visible: true
