@@ -12,12 +12,12 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 <h2>2016</h2>
 <ul>
 <li>Metroid: Zero Mission &#9642; Gameboy Advance<span class="fav">&hearts;</span></li>
-<li>Kid Dracula &#9642; Gameboy</li>
+<li><a href="http://angelsimon.github.io/2016/09/14/kid-dracula.html" target="_blank">Kid Dracula &#9642; Gameboy</a></li>
 <li>Castlevania: Dracula X &#9642; SNES</li>
 </ul>
 <h2>2015</h2>
 <ul>
-<li><a href="http://angelsimon.github.io/2016/09/08/little-samson.html">Little Samson &#9642; NES</a></li>
+<li><a href="http://angelsimon.github.io/2016/09/08/little-samson.html" target="_blank">Little Samson &#9642; NES</a></li>
 <li>Frankestein &#9642; NES</li>
 <li>McDonald's Treasure Land Adventure &#9642; Sega Genesis</li>
 </ul>
@@ -34,7 +34,7 @@ Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el fina
 </ul>
 <h2>2012</h2>
 <ul>
-<li><a href="http://angelsimon.github.io/2016/09/07/lords-of-the-realm.html">Lords of the Realm &#9642; PC DOS</a><span class="fav">&hearts;</span></li>
+<li><a href="http://angelsimon.github.io/2016/09/07/lords-of-the-realm.html" target="_blank">Lords of the Realm &#9642; PC DOS</a><span class="fav">&hearts;</span></li>
 <li>Kirby's Adventure &#9642; NES</li>
 <li>Portal &#9642; PC</li>
 </ul>
