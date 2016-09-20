@@ -13,6 +13,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 <ul>
 <li>20.000 Leguas de viaje submarino &#9642; Julio Verne (leyendo)</li>
 <li>The making of Prince of Persia &#9642; Jordan Mechner (leyendo)</li>
+<li>El extraño caso del Dr. Jekyll y Mr. Hyde &#9642; Robert Louis Stevenson</li>
 <li>A Cook's Tour &#9642; Anthony Bourdain</li>
 <li>Colorado Kid &#9642; Stephen King</li>
 </ul>
