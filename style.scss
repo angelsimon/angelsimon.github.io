@@ -3,6 +3,16 @@
 //@import 'https://fonts.googleapis.com/css?family=Noto+Serif';
 @import 'https://fonts.googleapis.com/css?family=Catamaran';
 
+.footer{
+  text-align: center;
+  font-size 14px;
+  border-top: 1px solid #888;
+  margin-top: 5px;
+}
+.footer-text{
+  color: #888;
+  padding-top: 5px;
+}
 .tags-holder{
   display: flex;
   flex-wrap: wrap;
