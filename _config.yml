@@ -5,7 +5,7 @@
 # Basic
 name:               "void"
 
-paginate:         5
+paginate:         10
 
 # URL
 baseurl:            "http://angelsimon.github.io"
