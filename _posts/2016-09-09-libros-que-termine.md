@@ -11,12 +11,15 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
+<li>El pescador y su alma &#9642; Oscar Wilde (leyendo)</li>
+<li>Novela de ajedrez &#9642; Stefan Zweig (leyendo)</li>
 <li>Sombras y luces de la Edad Media &#9642; Jean Verdon</li>
 <li>El extraño caso del Dr. Jekyll y Mr. Hyde &#9642; R. L Stevenson</li>
 <li>20.000 Leguas de viaje submarino &#9642; Julio Verne</li>
 <li>The making of Prince of Persia &#9642; Jordan Mechner</li>
 <li>A Cook's Tour &#9642; Anthony Bourdain</li>
 <li>Colorado Kid &#9642; Stephen King</li>
+<li>Understanding Crohn Disease and Ulcerative Colitis &#9642; Jon Zonderman</li>
 </ul>
 <h2>2015</h2>
 <ul>
