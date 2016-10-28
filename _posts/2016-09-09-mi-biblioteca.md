@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Libros que terminé
+title: Mi biblioteca
 category: Libros
 tags: ["libros", "listas"]
 description: Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
