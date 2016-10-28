@@ -11,8 +11,10 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
-<li>El pescador y su alma &#9642; Oscar Wilde (leyendo)</li>
-<li>Novela de ajedrez &#9642; Stefan Zweig (leyendo)</li>
+<li>El rey de hierro &#9642; Maurice Druon (leyendo)</li>
+<li>Ready player one &#9642; Ernest Cline (leyendo)</li>
+<li>El pescador y su alma &#9642; Oscar Wilde</li>
+<li>Novela de ajedrez &#9642; Stefan Zweig</li>
 <li>Sombras y luces de la Edad Media &#9642; Jean Verdon</li>
 <li>El extraño caso del Dr. Jekyll y Mr. Hyde &#9642; R. L Stevenson</li>
 <li>20.000 Leguas de viaje submarino &#9642; Julio Verne</li>
