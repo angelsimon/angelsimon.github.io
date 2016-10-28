@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Jueguitos que terminé
+title: Mis videojuegos
 category: Videojuegos
 tags: ["listas", "videojuegos"]
-description: Un breve listado con todos los juegos que jugué y pude pasarlos hasta el final.
+description: Un breve listado con todos los juegos que jugué, algunos de ellos pasarlos hasta el final.
 status: pinned
 visible: true
 ---
-Un breve listado de todos los jueguitos que jugué y pude pasarlos hasta el final.
+Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarlos hasta el final.
 
 <h2>2016</h2>
 <ul>
