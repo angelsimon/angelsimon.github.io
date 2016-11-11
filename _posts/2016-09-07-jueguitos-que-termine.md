@@ -31,6 +31,8 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <li>The Legend of Zelda: Oracle of Seasons &#9642; GameBoy Color<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
 <li>The Legend of Zelda: Oracle of Ages &#9642; GameBoy Color<span title="Jugado" class="lost">&#9733;</span><span class="fav">&hearts;</span></li>
 <li>New Super Mario Bros 2 &#9642; Nintendo 3DS<span title="Completado" class="won">&#9733;</span></li>
+<li>Imperialism 2: The Age of Exploration &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
+<li>Anno 1604 &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
 </ul>
 <h2>2013</h2>
 <ul>
@@ -46,7 +48,11 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 </ul>
 <h2>00s</h2>
 <ul>
-<li>Commandos &#9642; PC<span title="Completado" class="won">&#9733;</span></li>
+<li>Championship Manager 93/94 &#9642; PC DOS<span title="Jugado" class="lost">&#9733;</span><span class="fav">&hearts;</span></li>
+<li>Championship Manager 4 &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
+<li>Football Manager 2007 &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
+<li>DOOM &#9642; PC DOS<span title="Jugado" class="lost">&#9733;</span></li>
+<li>Commandos &#9642; PC<span title="Jugado" class="lost">&#9733;</span></li>
 <li>Shadowrun &#9642; SNES<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
 </ul>
 <h2>90s</h2>
@@ -58,6 +64,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <li>Contra &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Felix The Cat &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Chip & Dale &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
+<li>Prince of Persia &#9642; PC DOS<span title="Jugado" class="lost">&#9733;</span></li>
 <li>Snow Bros &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Wolfenstein 3D &#9642; PC DOS<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
 <li>Xargon: Episode 1 - Beyond Reality &#9642; PC DOS<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
