@@ -9,7 +9,9 @@ visible: true
 ---
 Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarlos hasta el final.
 
-<span class="playing">&#9773;</span> Completado | <span class="playing">&#9873;</span> Actualmente jugando | <span class="playing">&#9876;</span> Jugado pero no completado
+<div>
+<span class="playing">&#9733;</span> Completado | <span class="playing">&#9873;</span> Actualmente jugando | <span class="playing">&#9876;</span> Jugado pero no completado
+</div>
 
 <h2>2016</h2>
 <ul>
