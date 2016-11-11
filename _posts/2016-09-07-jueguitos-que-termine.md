@@ -36,7 +36,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 </ul>
 <h2>2013</h2>
 <ul>
-<li>LIMBO &#9642; PC</li>
+<li>LIMBO &#9642; PC Linux<span title="Completado" class="won">&#9733;</span></li>
 <li>New Super Mario Bros Wii &#9642; Nintendo Wii<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
 <li>Kirby's Return to Dream Land &#9642; Nintendo Wii<span title="Completado" class="won">&#9733;</span></li>
 </ul>
