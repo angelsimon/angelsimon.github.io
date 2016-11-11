@@ -12,7 +12,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <div class="referencias">
 <span class="won">&#9733;</span> Completado | <span class="playing">&#9733;</span> Actualmente jugando | <span class="lost">&#9733;</span> Jugado pero no completado | <span class="fav">&hearts;</span> Favorito
 </div>
-<br>
+
 <h2>2016</h2>
 <ul>
 <li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="playing">&#9873;</span></li>
