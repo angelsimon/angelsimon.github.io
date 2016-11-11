@@ -15,7 +15,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 
 <h2>2016</h2>
 <ul>
-<li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="playing">&#9873;</span></li>
+<li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="playing">&#9733;</span></li>
 <li>Metroid: Zero Mission &#9642; Gameboy Advance<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
 <li><a href="http://angelsimon.github.io/2016/09/14/kid-dracula.html" target="_blank">Kid Dracula &#9642; Gameboy</a><span title="Completado" class="won">&#9733;</span></li>
 <li>Castlevania: Dracula X &#9642; SNES<span title="Completado" class="won">&#9733;</span></li>
@@ -29,7 +29,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <h2>2014</h2>
 <ul>
 <li>The Legend of Zelda: Oracle of Seasons &#9642; GameBoy Color<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
-<li>The Legend of Zelda: Oracle of Ages &#9642; GameBoy Color<span title="Jugado" class="lost">&#9876;</span><span class="fav">&hearts;</span></li>
+<li>The Legend of Zelda: Oracle of Ages &#9642; GameBoy Color<span title="Jugado" class="lost">&#9733;</span><span class="fav">&hearts;</span></li>
 <li>New Super Mario Bros 2 &#9642; Nintendo 3DS<span title="Completado" class="won">&#9733;</span></li>
 </ul>
 <h2>2013</h2>
@@ -60,7 +60,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <li>Chip & Dale &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Snow Bros &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Wolfenstein 3D &#9642; PC DOS<span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
-<li>Xargon: Episode 1 - Beyond Reality &#9642; PC DOS<span title="Completado" class="won">&#9873;</span><span class="fav">&hearts;</span></li>
+<li>Xargon: Episode 1 - Beyond Reality &#9642; PC DOS<span title="Completado" class="won">&#9773;</span><span class="fav">&hearts;</span></li>
 <li>Black Stone: Aliens of Gold &#9642; PC DOS<span title="Completado" class="won">&#9733;</span></li>
 <li>Mystic Towers &#9642; PC DOS<span title="Completado" class="won">&#9733;</span></li>
 </ul>
