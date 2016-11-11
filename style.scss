@@ -50,6 +50,23 @@
   border: 1px solid #666;
 }
 
+.fav{
+    color: #FF0000;
+    margin-left: 10px;
+  }
+  .playing{
+    color: #46752a;
+    margin-left: 10px;
+  }
+  .won{
+    color: #c89122;
+    margin-left: 10px;
+  }
+  .lost{
+    color: #f96042;
+    margin-left: 10px;
+  }
+
 .greyed{
   color:#666;
   background-color: #ccc;
@@ -192,24 +209,7 @@ ul {
   li {
     margin-bottom: .25rem;
   }
-  
-  .fav{
-    color: #FF0000;
-    margin-left: 10px;
-  }
-  .playing{
-    color: #46752a;
-    margin-left: 10px;
-  }
-  .won{
-    color: #c89122;
-    margin-left: 10px;
-  }
-  .lost{
-    color: #f96042;
-    margin-left: 10px;
-  }
-  
+    
   ul,
   ol {
     margin-top: .25rem;
