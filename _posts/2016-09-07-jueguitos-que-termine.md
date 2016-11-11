@@ -44,7 +44,8 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <ul>
 <li><a href="http://angelsimon.github.io/2016/09/07/lords-of-the-realm.html" target="_blank">Lords of the Realm &#9642; PC DOS</a><span title="Completado" class="won">&#9733;</span><span class="fav">&hearts;</span></li>
 <li>Kirby's Adventure &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
-<li>Portal &#9642; PC<span title="Completado" class="won">&#9733;</span></li>
+<li>Portal &#9642; PC Windows<span title="Completado" class="won">&#9733;</span></li>
+<li>Terraria &#9642; PC Windows<span title="jugado" class="lost">&#9733;</span></li>
 </ul>
 <h2>00s</h2>
 <ul>
