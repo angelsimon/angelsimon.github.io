@@ -16,6 +16,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <h2>2016</h2>
 <ul>
 <li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="playing">&#9733;</span></li>
+<li>The Lost Vikings &#9642; PC DOS <span title="Jugando" class="playing">&#9733;</span></li>
 <li>The Legend of Zelda: A Link to the past &#9642; SNES <span title="Jugando" class="playing">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li>Metroid: Zero Mission &#9642; Gameboy Advance<span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li><a href="http://angelsimon.github.io/2016/09/14/kid-dracula.html" target="_blank">Kid Dracula &#9642; Gameboy</a><span title="Completado" class="won">&#9733;</span></li>
@@ -26,6 +27,8 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <li><a href="http://angelsimon.github.io/2016/09/08/little-samson.html" target="_blank">Little Samson &#9642; NES</a><span title="Completado" class="won">&#9733;</span></li>
 <li>Frankestein &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>McDonald's Treasure Land Adventure &#9642; Sega Genesis<span title="Completado" class="won">&#9733;</span></li>
+<li>Stronghold HD &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
+<li>Age of Empires II &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
 </ul>
 <h2>2014</h2>
 <ul>
