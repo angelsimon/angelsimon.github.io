@@ -11,7 +11,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
-<li>Ready player one &#9642; Ernest Cline (leyendo)</li>
+<li>Ready player one &#9642; Ernest Cline (leyendo) <span title="Recomiendo" class="won">★</span></li>
 <li>El rey de hierro &#9642; Maurice Druon</li>
 <li>El pescador y su alma &#9642; Oscar Wilde</li>
 <li>Novela de ajedrez &#9642; Stefan Zweig</li>
@@ -25,26 +25,26 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 </ul>
 <h2>2015</h2>
 <ul>
-<li>El principito &#9642; Antoine de Saint-Exupéry</li>
+<li>El principito &#9642; Antoine de Saint-Exupéry <span title="Recomiendo" class="won">★</span></li>
 <li>Carrie &#9642; Stephen King</li>
 <li>La economía de tu vida &#9642; Tomás Bulat</li>
-<li>El viejo y el mar &#9642; Ernest Hemingway<span class="fav">&hearts;</span></li>
+<li>El viejo y el mar &#9642; Ernest Hemingway <span title="Recomiendo" class="won">★</span><span class="fav">&hearts;</span></li>
 <li>Historias inesperadas de la historia argentina &#9642; Daniel Balmaceda</li>
 <li>Buscando a Papá Noel &#9642; Richard Paul Evans</li>
 </ul>
 <h2>2014</h2>
 <ul>
-<li>1984 &#9642; George Orwell <span class="fav">&hearts;</span></li>
-<li>La Granja &#9642; George Orwell <span class="fav">&hearts;</span></li>
+<li>1984 &#9642; George Orwell <span title="Recomiendo" class="won">★</span><span class="fav">&hearts;</span></li>
+<li>La Granja &#9642; George Orwell <span title="Recomiendo" class="won">★</span><span class="fav">&hearts;</span></li>
 <li>Cell &#9642; Stephen King</li>
 <li>Economía descubierta &#9642; Tomás Bulat</li>
 <li>Historia de las palabras &#9642; Daniel Balmaceda</li>
 </ul>
 <h2>2013</h2>
 <ul>
-<li>It &#9642; Stephen King <span class="fav">&hearts;</span></li>
+<li>It &#9642; Stephen King <span title="Recomiendo" class="won">★</span><span class="fav">&hearts;</span></li>
 <li>Insomnia &#9642; Stephen King</li>
-<li>La larga marcha &#9642; Stephen King</li>
+<li>La larga marcha &#9642; Stephen King <span title="Recomiendo" class="won">★</span></li>
 <li>A brief history of the Internet &#9642; Michael S Hart</li>
 </ul>
 <h2>2000-2012</h2>
