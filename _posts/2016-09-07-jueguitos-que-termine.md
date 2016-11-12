@@ -29,6 +29,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <li>McDonald's Treasure Land Adventure &#9642; Sega Genesis<span title="Completado" class="won">&#9733;</span></li>
 <li>Stronghold HD &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
 <li>Age of Empires II &#9642; PC Windows<span title="Jugado" class="lost">&#9733;</span></li>
+<li>Castlevania: Symphony of the night &#9642; Playstation<span title="Jugado" class="lost">&#9733;</span></li>
 </ul>
 <h2>2014</h2>
 <ul>
