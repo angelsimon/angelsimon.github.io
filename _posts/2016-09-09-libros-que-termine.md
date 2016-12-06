@@ -11,6 +11,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
+<li>Armada &#9642; Ernest Cline</li>
 <li>Carta de una desconocida &#9642; Stefan Zweig</li>
 <li>Ready player one &#9642; Ernest Cline<span title="Recomiendo" class="won">★</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li>El rey de hierro &#9642; Maurice Druon</li>
