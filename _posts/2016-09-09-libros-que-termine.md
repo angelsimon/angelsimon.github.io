@@ -13,7 +13,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 <ul>
 <li>Mientras escribo &#9642; Stephen King</li>
 <li>Un escándalo en Bohemia &#9642; Arthur Conan Doyle</li>
-<li>Armada &#9642; Ernest Cline</li>
+<li>Armada &#9642; Ernest Cline<span title="Recomiendo" class="won">★</span></li>
 <li>La reina estrangulada &#9642; Maurice Druon</li><li>Carta de una desconocida &#9642; Stefan Zweig</li>
 <li>Ready player one &#9642; Ernest Cline<span title="Recomiendo" class="won">★</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li>El rey de hierro &#9642; Maurice Druon</li>
