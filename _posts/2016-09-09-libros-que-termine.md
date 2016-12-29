@@ -11,6 +11,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
+<li>Mientras escribo &#9642; Stephen King</li>
 <li>Un escándalo en Bohemia &#9642; Arthur Conan Doyle</li>
 <li>Armada &#9642; Ernest Cline</li>
 <li>La reina estrangulada &#9642; Maurice Druon</li><li>Carta de una desconocida &#9642; Stefan Zweig</li>
