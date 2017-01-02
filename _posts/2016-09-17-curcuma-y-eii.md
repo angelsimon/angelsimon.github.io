@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cúrcuma y enfermedad inflamatoria intestinal
-description: Breve explicación de las EII y mi proyecto de utilizar cúrcuma en conjunto con la medicación para mantener la remisión.
-category: Proyectos
-tags: ["mis proyectos", "salud", "eii", "colitis ulcerosa"]
+title: Enfermedad inflamatoria intestinal
+description: Breve explicación de las EII.
+category: Información
+tags: ["salud", "eii", "colitis ulcerosa"]
 ogimage: cu-1/ogimage.jpg
 visible: true
 ---
@@ -13,7 +13,7 @@ al sistema digestivo. Principalmente, el intestino. Las principales enfermedades
 Enfermedad de Crohn y Colitis ulcerosa. Ninguna de las dos tiene cura ni explicación de porqué surgen. Es una enfermedad crónica que deberás sobrellevar, por el momento, por el resto de tu vida.<br>
 A modo de simplificación, una enfermedad autoinmune de este tipo es como si el antivirus de tu computadora además de atacar a los archivos dañinos que puedas descargar de internet también ataque a tu disco rígido y tu impresora porque las considere perjudiciales. Este mal funcionamiento provoca inflamación. En el caso de estas enfermedades, el sistema autoinmune ataca erróneamente al colon, a las articulaciones, ojos, etc.<br>
 En mi caso, padezco colitis ulcerosa. Este post explicará brevemente de qué se trata, las características de los síntomas,
-medicaciones, cómo me las arreglé con la enfermedad y mi "proyecto" de utilizar cúrcuma como medicina que documentaré aquí mismo.
+medicaciones y cómo me las arreglé con la enfermedad.
 <br>
 <h2>Colitis ulcerosa</h2>
 La colitis ulcerosa. A partir de ahora: CU. Es una EII (Enfermedad inflamatoria intestinal), por lo tanto, una enfermedad considerada autoinmune que se caracteriza por atacar al colon y ulcerarlo. Los síntomas entonces, suelen empezar por el colon y el sistema digestivo. El diagnostico de la enfermedad se suele confirmar con una colonoscopia, pero antes necesitarás varias consultas con tu gastroenterólogo ya que no es una enfermedad común. De hecho, es considerada una EPOF - Enfermedad Poco Frecuente. Por definición la OMS considera una enfermedad como de baja prevalencia a una condición que afecte a de 650 a 1000 personas por millón de habitantes (1:1500 - 1:1000). Es decir, uno de cada mil aproximadamente.<br>
@@ -150,14 +150,9 @@ En mi último brote, la PCR que tiene un valor límite de 5 estaba en 101. La er
 La enfermedad, una vez que uno la acepta como tal y que es parte de uno mismo. Que está en los genes. Es más llevadera. Hay que tratar de no deprimirse, de hacerle frente, de domarla. La familia, amistades, colegas, parejas, son muy importantes. Pero todo inicia en uno. Uno tiene que hacer las paces con su propio cuerpo. Es lo que te tocó, es feo, podría ser peor, podría ser distinto.. podría, pero la realidad es la única verdad.<br>
 Disfrutar de la vida en los momentos de remisión y refugiarse y solicitar ayuda a los seres queridos y médicos en los tiempos de brotes es la fórmula.<br>
 Mi plan inmediato fue reducir las horas laborales. Y dedicar el tiempo a hobbies, hacer deportes, cocinar, lo que a uno le guste. En mi caso, leer libros, jugar jueguitos, escribir posts que nadie leerá y pasar tiempo con mis seres queridos.<br>
-Artículos relacionados a la enfermedad también suele ser un material de lectura recurrente. En uno de los últimos me enteré que la cúrcuma (el condimento) tiene propiedades que demostraron lograr una desinflamación y consiguiente mantenimiento de la remisión cuando se proporciona en conjunto con la Mesalazina.<br><br>
-El paper en cuestión puede leerse <a href="http://www.ncbi.nlm.nih.gov/pubmed/25724700" target="_blank">aquí</a> y de aquí en adelante, el post continúa con mis anotaciones y reflexiones sobre el uso de la cúrcuma para tratar la colitis ulcerosa por el lapso de un año. Anotaré las cuestiones positivas y negativas que note para cualquiera que quiera leerlo. Obviamente, quien quiera utilizar este tratamiento debería consultarlo con su médico gastroenterólogo. Ya que cada cuadro es distinto.<br><br>
-Por último, antes de comenzar con la sección Cúrcuma que da nombre al post y al "Proyecto". Quiero hacer principal hincapié en la <a href="http://www.masvida.org.ar/" target="_blank">Fundación Más Vida</a>. La misma es una fundación sin fines de lucro que contribuye en la prevención, promoción y educación de la salud con especial enfoque en la Enfermedad Inflamatoria Intestinal (Enfermedad de Crohn, Colitis Ulcerosa y Colitis Indeterminada). estimulando la realización e implementación de actividades vinculadas con el desarrollo médico, psicosocial y comunitario, desde un abordaje interdisciplinario.<br><br>
+Artículos relacionados a la enfermedad también suele ser un material de lectura recurrente. <br><br>
+Por último, quiero hacer principal hincapié en la <a href="http://www.masvida.org.ar/" target="_blank">Fundación Más Vida</a>. La misma es una fundación sin fines de lucro que contribuye en la prevención, promoción y educación de la salud con especial enfoque en la Enfermedad Inflamatoria Intestinal (Enfermedad de Crohn, Colitis Ulcerosa y Colitis Indeterminada). estimulando la realización e implementación de actividades vinculadas con el desarrollo médico, psicosocial y comunitario, desde un abordaje interdisciplinario.<br><br>
 A quien quiera, los invito a colaborar con la fundación. Se pueden <a href="http://www.masvida.org.ar/unite-a-mas-vida.html" target="_blank">realizar donaciones</a> desde su sitio web con diferentes medios de pago como Tarjeta de crédito, transferencia bancaria, Pago Fácil, RapiPago, etc.
-<br><br>
-<h2>Cúrcuma como tratamiento</h2>
-El inicio del tratamiento será el 1° de Octubre de 2016 y aquí dejaré detallado los aspectos relevantes que encuentre del mismo.
-
 <br><br>
 
 Gracias por leer.
