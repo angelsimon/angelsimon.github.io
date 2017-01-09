@@ -11,6 +11,11 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2016</h2>
 <ul>
+<li>Confesiones de un chef &#9642; Anthony Bourdain (leyendo)</li>
+<li>Historia de las letras, palabras y frases &#9642; Daniel Balmaceda (leyendo)</li>
+</ul>
+<h2>2016</h2>
+<ul>
 <li>Mientras escribo &#9642; Stephen King</li>
 <li>Un escándalo en Bohemia &#9642; Arthur Conan Doyle</li>
 <li>Armada &#9642; Ernest Cline<span title="Recomiendo" class="won">★</span></li>
