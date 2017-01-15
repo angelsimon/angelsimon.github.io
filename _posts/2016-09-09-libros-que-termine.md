@@ -11,8 +11,8 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2017</h2>
 <ul>
-<li>Confesiones de un chef &#9642; Anthony Bourdain (leyendo)</li>
-<li>Historia de las letras, palabras y frases &#9642; Daniel Balmaceda (leyendo)</li>
+<li>Confesiones de un chef &#9642; Anthony Bourdain</li>
+<li>Historia de las letras, palabras y frases &#9642; Daniel Balmaceda</li>
 </ul>
 <h2>2016</h2>
 <ul>
