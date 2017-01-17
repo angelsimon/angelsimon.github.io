@@ -11,6 +11,7 @@ permalink: /archivo/
     		<ul class="posts">
     		{% capture year %}{{currentyear}}{% endcapture %} 
   		{% endif %}
+  {% if post.title != null and post.visible == true %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  {% endif %}
 {% endfor %}
-</p>
