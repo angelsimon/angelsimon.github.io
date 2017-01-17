@@ -19,6 +19,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "about"
+  - name:           "Archivo"
+    href:           "/archive"
   - name:						"Categorías"
     href:						"/categories"
   - name:           "Tags"
