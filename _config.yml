@@ -20,7 +20,7 @@ nav:
   - name:           "About"
     href:           "about"
   - name:           "Archivo"
-    href:           "/archive"
+    href:           "/archivo"
   - name:						"Categorías"
     href:						"/categories"
   - name:           "Tags"
