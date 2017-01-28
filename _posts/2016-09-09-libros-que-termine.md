@@ -12,7 +12,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 <h2>2017</h2>
 <ul>
 <li>Fahrenheit 451 &#9642; Ray Bradbury (leyendo)</li>
-<li>Yo contra el mundo &#9642; Ricardo Podetti</li>
+<li>Yo contra el mundo &#9642; Esteban Podetti</li>
 <li>Rabia &#9642; Stephen King</li>
 <li>Confesiones de un chef &#9642; Anthony Bourdain</li>
 <li>Historia de las letras, palabras y frases &#9642; Daniel Balmaceda</li>
