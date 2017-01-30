@@ -71,7 +71,7 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <li>Felix The Cat &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Chip & Dale &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
 <li>Prince of Persia &#9642; PC DOS<span title="Jugado" class="lost">&#9733;</span></li>
-<li>Snow Bros &#9642; NES<span title="Completado" class="won">&#9733;</span></li>
+<li><a href="http://angelsimon.github.io/2017/01/16/snow-bros.html" target="_blank">Snow Bros &#9642; NES</a><span title="Completado" class="won">&#9733;</span></li>
 <li>Wolfenstein 3D &#9642; PC DOS<span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li>Xargon: Episode 1 - Beyond Reality &#9642; PC DOS<span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li>Black Stone: Aliens of Gold &#9642; PC DOS<span title="Completado" class="won">&#9733;</span></li>
