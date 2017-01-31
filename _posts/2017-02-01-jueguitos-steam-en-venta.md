@@ -91,6 +91,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><a src="http://store.steampowered.com/app/228400/" target="_blank">u$d 19.99</a></td>
 <td>$ 150</td>
 </tr>
+
 <tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/245280/capsule_sm_120.jpg?t=1485885624" class="no-border"/></td>
 <td>Enslaved: Odyssey To The West Premium Edition</td>
@@ -98,6 +99,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><a src="http://store.steampowered.com/app/245280/" target="_blank">u$d 19.99</a></td>
 <td>$ 100</td>
 </tr>
+
 <tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/212680/capsule_sm_120.jpg?t=1447355877" class="no-border"/></td>
 <td>FTL: Faster than light</td>
@@ -112,8 +114,9 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><a src="http://store.steampowered.com/app/345180/" target="_blank">u$d 19.99</a></td>
 <td>$ 200</td>
 </tr>
+
 <tr>
-<td><img src="" class="no-border"/></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/35720/capsule_sm_120.jpg?t=1477041084" class="no-border"/></td>
 <td>Trine 2: Complete history</td>
 <td>Plataformas, Aventura, Puzzle</td>
 <td><a src="http://store.steampowered.com/app/35720/" target="_blank">u$d 19.99</a></td>
