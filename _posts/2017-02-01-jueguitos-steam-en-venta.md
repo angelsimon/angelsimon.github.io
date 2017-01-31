@@ -13,9 +13,9 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <br><br>
 <table class="bicolor">
 <tr>
-<th width="20%">Img</th>
+<th width="10%">Img</th>
 <th width="30%">Nombre</th>
-<th width="10%">Género</th>
+<th width="20%">Género</th>
 <th width="10%">Precio Steam</th>
 <th width="10%">Precio de Venta</th>
 </tr>
@@ -24,7 +24,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789" /></td>
 <td>Prison Architect</td>
 <td>Simulador, Estrategia</td>
-<td><a src="http://store.steampowered.com/app/233450/?snr=1_7_7_151_150_1" target="_blank">u$d 29.99<a/></td>
+<td><a src="http://store.steampowered.com/app/233450/?snr=1_7_7_151_150_1" target="_blank">u$d 29.99</a></td>
 <td>$200</td>
 </tr>
 
@@ -32,7 +32,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/214560/capsule_sm_120.jpg?t=1478109132" /></td>
 <td>Mark of the Ninja</td>
 <td>Plataformas, Indie</td>
-<td><a src="http://store.steampowered.com/app/214560/?snr=1_7_7_151_150_1" target="_blank"><a/>u$d 14.99</td>
+<td><a src="http://store.steampowered.com/app/214560/?snr=1_7_7_151_150_1" target="_blank"></a>u$d 14.99</td>
 <td>$180</td>
 </tr>
 
@@ -40,7 +40,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/359310/capsule_sm_120.jpg?t=1450364379"/></td>
 <td>Evoland 2</td>
 <td>Rol, Aventura, Indie</td>
-<td><a src="http://store.steampowered.com/app/359310/?snr=1_7_7_151_150_1" target="_blank"> u$d 19.99<a/></td>
+<td><a src="http://store.steampowered.com/app/359310/?snr=1_7_7_151_150_1" target="_blank"> u$d 19.99</a></td>
 <td>$120</td>
 </tr>
 
@@ -48,7 +48,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/>u$d </td>
+<td><a src="" target="_blank"></a>u$d </td>
 <td></td>
 </tr>
 
@@ -56,7 +56,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/>u$d </td>
+<td><a src="" target="_blank"></a>u$d </td>
 <td></td>
 </tr>
 
@@ -64,7 +64,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/>u$d </td>
+<td><a src="" target="_blank"></a>u$d </td>
 <td></td>
 </tr>
 
@@ -72,7 +72,15 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/>u$d </td>
+<td><a src="" target="_blank"></a>u$d </td>
+<td></td>
+</tr>
+
+<tr>
+<td><img src=""/></td>
+<td></td>
+<td></td>
+<td><a src="" target="_blank"></a>u$d </td>
 <td></td>
 </tr>
 
