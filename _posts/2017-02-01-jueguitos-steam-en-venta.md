@@ -21,7 +21,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 </tr>
 
 <tr>
-<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789"</td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789" /></td>
 <td>Prison Architect</td>
 <td>Simulador, Estrategia</td>
 <td><a src="http://store.steampowered.com/app/233450/?snr=1_7_7_151_150_1" target="_blank">u$d 29.99<a/></td>
@@ -29,7 +29,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 </tr>
 
 <tr>
-<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/214560/capsule_sm_120.jpg?t=1478109132"</td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/214560/capsule_sm_120.jpg?t=1478109132" /></td>
 <td>Mark of the Ninja</td>
 <td>Plataformas, Indie</td>
 <td><a src="http://store.steampowered.com/app/214560/?snr=1_7_7_151_150_1" target="_blank"><a/>u$d 14.99</td>
@@ -37,7 +37,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 </tr>
 
 <tr>
-<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/359310/capsule_sm_120.jpg?t=1450364379"</td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/359310/capsule_sm_120.jpg?t=1450364379"/></td>
 <td>Evoland 2</td>
 <td>Rol, Aventura, Indie</td>
 <td><a src="http://store.steampowered.com/app/359310/?snr=1_7_7_151_150_1" target="_blank"> u$d 19.99<a/></td>
@@ -45,54 +45,36 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 </tr>
 
 <tr>
-<td><img src=""</td>
+<td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/></td>
-<td></td>
-</tr>
-
-<tr>
-<td><img src=""</td>
-<td></td>
-<td></td>
-<td><a src="" target="_blank"><a/></td>
+<td><a src="" target="_blank"><a/>u$d </td>
 <td></td>
 </tr>
 
 <tr>
-<td><img src=""</td>
+<td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/></td>
-<td></td>
-</tr>
-
-<tr>
-<td><img src=""</td>
-<td></td>
-<td></td>
-<td><a src="" target="_blank"><a/></td>
+<td><a src="" target="_blank"><a/>u$d </td>
 <td></td>
 </tr>
 
 <tr>
-<td><img src=""</td>
+<td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/></td>
+<td><a src="" target="_blank"><a/>u$d </td>
 <td></td>
 </tr>
 
 <tr>
-<td><img src=""</td>
+<td><img src=""/></td>
 <td></td>
 <td></td>
-<td><a src="" target="_blank"><a/></td>
+<td><a src="" target="_blank"><a/>u$d </td>
 <td></td>
 </tr>
-
-
 
 
 </table>
