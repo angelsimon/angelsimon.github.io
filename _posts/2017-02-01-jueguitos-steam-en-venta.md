@@ -21,68 +21,118 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 </tr>
 
 <tr>
-<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789" /></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789" class="no-border" /></td>
 <td>Prison Architect</td>
 <td>Simulador, Estrategia</td>
 <td><a src="http://store.steampowered.com/app/233450/?snr=1_7_7_151_150_1" target="_blank">u$d 29.99</a></td>
-<td>$200</td>
+<td>$ 200</td>
 </tr>
 
 <tr>
-<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/214560/capsule_sm_120.jpg?t=1478109132" /></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/214560/capsule_sm_120.jpg?t=1478109132" class="no-border"/></td>
 <td>Mark of the Ninja</td>
 <td>Plataformas, Indie</td>
-<td><a src="http://store.steampowered.com/app/214560/?snr=1_7_7_151_150_1" target="_blank"></a>u$d 14.99</td>
-<td>$180</td>
+<td><a src="http://store.steampowered.com/app/214560/?snr=1_7_7_151_150_1" target="_blank">u$d 14.99</a></td>
+<td>$ 180</td>
 </tr>
 
 <tr>
-<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/359310/capsule_sm_120.jpg?t=1450364379"/></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/359310/capsule_sm_120.jpg?t=1450364379" class="no-border"/></td>
 <td>Evoland 2</td>
 <td>Rol, Aventura, Indie</td>
 <td><a src="http://store.steampowered.com/app/359310/?snr=1_7_7_151_150_1" target="_blank"> u$d 19.99</a></td>
-<td>$120</td>
+<td>$ 120</td>
 </tr>
 
 <tr>
-<td><img src=""/></td>
-<td></td>
-<td></td>
-<td><a src="" target="_blank"></a>u$d </td>
-<td></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/41900/capsule_sm_120.jpg?t=1447352722" class="no-border"/></td>
+<td>The Bard's Tale</td>
+<td>Rol, Aventura</td>
+<td><a src="http://store.steampowered.com/app/41900/" target="_blank" ></a>u$d 9.99</td>
+<td>$ 75</td>
 </tr>
 
 <tr>
-<td><img src=""/></td>
-<td></td>
-<td></td>
-<td><a src="" target="_blank"></a>u$d </td>
-<td></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/107100/capsule_sm_120.jpg?t=1468864279" class="no-border"/></td>
+<td>Bastion</td>
+<td>Acción, Indie</td>
+<td><a src="http://store.steampowered.com/app/107100/" target="_blank"></a>u$d 14.99</td>
+<td>$ 100</td>
 </tr>
 
 <tr>
-<td><img src=""/></td>
-<td></td>
-<td></td>
-<td><a src="" target="_blank"></a>u$d </td>
-<td></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/225260/capsule_sm_120.jpg?t=1479167529" class="no-border"/></td>
+<td>Brütal Legend</td>
+<td>Acción, Humor, Aventura</td>
+<td><a src="http://store.steampowered.com/app/225260/" target="_blank"></a>u$d 14.99</td>
+<td>$ 100</td>
 </tr>
 
 <tr>
-<td><img src=""/></td>
-<td></td>
-<td></td>
-<td><a src="" target="_blank"></a>u$d </td>
-<td></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/400110/capsule_sm_120.jpg?t=1447377823" class="no-border"/></td>
+<td>Else Heart.Break()</td>
+<td>Aventura, Indie, Rol, Programming</td>
+<td><a src="http://store.steampowered.com/app/400110/" target="_blank"></a>u$d 24.99</td>
+<td>$ 120</td>
 </tr>
 
 <tr>
-<td><img src=""/></td>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/48000/capsule_sm_120.jpg?t=1478090357" class="no-border"/></td>
+<td>LIMBO</td>
+<td>Plataformas, Indie, Puzzle</td>
+<td><a src="http://store.steampowered.com/app/48000/" target="_blank"></a>u$d 9.99</td>
+<td>$ 120</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/228400/capsule_sm_120.jpg?t=1447357197" class="no-border"/></td>
+<td>Ace Combat Assault Horizon Enhanced Edition</td>
+<td>Acción, Simulador, Vuelo, Militar</td>
+<td><a src="http://store.steampowered.com/app/228400/" target="_blank"></a>u$d 19.99</td>
+<td>$ 150</td>
+</tr>
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/245280/capsule_sm_120.jpg?t=1485885624" class="no-border"/></td>
+<td>Enslaved: Odyssey To The West Premium Edition</td>
+<td>Aventura, Acción, Postapolíptico</td>
+<td><a src="http://store.steampowered.com/app/245280/" target="_blank"></a>u$d 19.99</td>
+<td>$ 100</td>
+</tr>
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/212680/capsule_sm_120.jpg?t=1447355877" class="no-border"/></td>
+<td>FTL: Faster than light</td>
+<td>Espacio, Indie, Ciencia ficción, Rogue</td>
+<td><a src="http://store.steampowered.com/app/212680/" target="_blank"></a>u$d 9.99</td>
+<td>$ 120</td>
+</tr>
+<tr>
+<td><img src="" class="no-border"/></td>
 <td></td>
 <td></td>
 <td><a src="" target="_blank"></a>u$d </td>
+<td>$</td>
+</tr>
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/345180/header.jpg?t=1480605472" class="no-border"/></td>
+<td>Victor Vran</td>
+<td>Rol, Acción RPG, Aventura</td>
+<td><a src="http://store.steampowered.com/app/345180/" target="_blank"></a>u$d 19.99</td>
+<td>$ 200</td>
+</tr>
+<tr>
+<td><img src="" class="no-border"/></td>
 <td></td>
+<td></td>
+<td><a src="" target="_blank"></a>u$d </td>
+<td>$</td>
 </tr>
 
+<tr>
+<td><img src="" class="no-border"/></td>
+<td></td>
+<td></td>
+<td><a src="" target="_blank"></a>u$d </td>
+<td>$</td>
+</tr>
 
 </table>
