@@ -22,6 +22,14 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 </tr>
 
 <tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/290040/capsule_sm_120.jpg?t=1478022888" class="no-border" /></td>
+<td><a href="http://www.angelsimon.com.ar/steam/index.html#retrogamingpack" target="_blank">Retro gaming pack &hearts; (oferta)</a></td>
+<td>Simulador, Estrategia, Acción, Retro, Indie</td>
+<td><a src="#" target="_blank"> Más de u$d 39.99</a></td>
+<td>$ 200</td>
+</tr>
+
+<tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789" class="no-border" /></td>
 <td><a href="http://www.angelsimon.com.ar/steam/index.html#prisonarchitect" target="_blank">Prison Architect</a></td>
 <td>Simulador, Estrategia</td>
@@ -136,8 +144,24 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/108200/capsule_sm_120.jpg?t=1482495058" class="no-border"/></td>
 <td><a href="http://www.angelsimon.com.ar/steam/index.html#tickettoride" target="_blank">Ticket to Ride</a></td>
-<td>Estrategia, Multijador, Boardgame</td>
+<td>Estrategia, Multijugador, Boardgame</td>
 <td><a src="http://store.steampowered.com/app/108200/" target="_blank">u$d 9.99</a></td>
+<td>$ 75</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/234900/capsule_sm_120.jpg?t=1478025978" class="no-border"/></td>
+<td><a href="http://www.angelsimon.com.ar/steam/index.html#anodyne" target="_blank">Anodyne</a></td>
+<td>Aventura, Indie, Acción</td>
+<td><a src="http://store.steampowered.com/app/234900/" target="_blank">u$d 9.99</a></td>
+<td>$ 50</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/290040/capsule_sm_120.jpg?t=1478022888" class="no-border"/></td>
+<td><a href="http://www.angelsimon.com.ar/steam/index.html#retrogamecrunch" target="_blank">Retro Game Crunch</a></td>
+<td>Indie, Acción, Aventura, Retro</td>
+<td><a src="http://store.steampowered.com/app/290040/" target="_blank">u$d 9.99</a></td>
 <td>$ 75</td>
 </tr>
 
