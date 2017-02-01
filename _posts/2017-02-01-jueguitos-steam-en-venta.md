@@ -4,7 +4,8 @@ title: Jueguitos en venta (Steam)
 category: Videojuegos
 tags: [ "pc", "juegos", "videojuegos"]
 description: Un listado de jueguitos que están en venta para la plataforma Steam. Muy baratos y en pesos argentinos.
-ogimage: steam/cover.png
+ogimage: steam/steam.png
+status: pinned
 visible: true
 ---
 Aquí pueden ver un listado de los jueguitos que vendo a un precio mucho menor a los que se venden en la plataforma Steam. Los mismos se pueden comprar por MercadoLibre y en pesos argentinos y pagarlos con RapiPago, PagoFácil, Tarjeta de crédito y crédito de MercadoPago.<br>
