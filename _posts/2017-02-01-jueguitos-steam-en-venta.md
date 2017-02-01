@@ -23,7 +23,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 
 <tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/233450/capsule_sm_120.jpg?t=1478196789" class="no-border" /></td>
-<td><a href="href="http://www.angelsimon.com.ar/steam/index.html#prisonarchitect">Prison Architect</a></td>
+<td><a href="http://www.angelsimon.com.ar/steam/index.html#prisonarchitect">Prison Architect</a></td>
 <td>Simulador, Estrategia</td>
 <td><a src="http://store.steampowered.com/app/233450/?snr=1_7_7_151_150_1" target="_blank">u$d 29.99</a></td>
 <td>$ 200</td>
@@ -71,7 +71,7 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 
 <tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/400110/capsule_sm_120.jpg?t=1447377823" class="no-border"/></td>
-<td>Else Heart.Break()</td>
+<td><a href="http://www.angelsimon.com.ar/steam/index.html#elseheartbreak">Else Heart.Break()</a></td>
 <td>Aventura, Indie, Rol, Programming</td>
 <td><a src="http://store.steampowered.com/app/400110/" target="_blank">u$d 24.99</a></td>
 <td>$ 120</td>
