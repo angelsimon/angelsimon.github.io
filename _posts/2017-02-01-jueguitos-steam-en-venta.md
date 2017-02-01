@@ -92,4 +92,28 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td><a src="http://store.steampowered.com/app/228400/" target="_blank">u$d 19.99</a></td>
 <td>$ 150</td>
 </tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/245280/capsule_sm_120.jpg?t=1485885624" class="no-border"/></td>
+<td>Enslaved: Odyssey To The West Premium Edition</td>
+<td>Aventura, Acción, Postapolíptico</td>
+<td><a src="http://store.steampowered.com/app/245280/" target="_blank">u$d 19.99</a></td>
+<td>$ 100</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/212680/capsule_sm_120.jpg?t=1447355877" class="no-border"/></td>
+<td>FTL: Faster than light</td>
+<td>Espacio, Indie, Ciencia ficción, Rogue</td>
+<td><a src="http://store.steampowered.com/app/212680/" target="_blank">u$d 9.99</a></td>
+<td>$ 120</td>
+</tr>
+
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/345180/capsule_sm_120.jpg?t=1480605472" class="no-border"/></td>
+<td>Victor Vran</td>
+<td>Rol, Acción RPG, Aventura</td>
+<td><a src="http://store.steampowered.com/app/345180/" target="_blank">u$d 19.99</a></td>
+<td>$ 200</td>
+</tr>
+
 </table>
