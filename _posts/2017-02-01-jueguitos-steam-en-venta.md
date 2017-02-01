@@ -109,11 +109,36 @@ Los precios de Steam pueden llegar a cambiar y no actualizarse en éstas página
 <td>$ 120</td>
 </tr>
 
+<tr>
 <td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/345180/capsule_sm_120.jpg?t=1480605472" class="no-border"/></td>
 <td>Victor Vran</td>
 <td>Rol, Acción RPG, Aventura</td>
 <td><a src="http://store.steampowered.com/app/345180/" target="_blank">u$d 19.99</a></td>
 <td>$ 200</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/35720/capsule_sm_120.jpg?t=1477041084" class="no-border"/></td>
+<td>Trine 2: Complete history</td>
+<td>Plataformas, Aventura, Puzzle</td>
+<td><a src="http://store.steampowered.com/app/35720/" target="_blank">u$d 19.99</a></td>
+<td>$ 200</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/22600/capsule_sm_120.jpg?t=1478121750" class="no-border"/></td>
+<td>Worms Reloaded</td>
+<td>Estrategia, 2D</td>
+<td><a src="http://store.steampowered.com/app/22600/" target="_blank">u$d 19.99</a></td>
+<td>$ 250</td>
+</tr>
+
+<tr>
+<td><img src="http://cdn.edgecast.steamstatic.com/steam/apps/108200/capsule_sm_120.jpg?t=1482495058" class="no-border"/></td>
+<td>Ticket to Ride</td>
+<td>Estrategia, Multijador, Boardgame</td>
+<td><a src="http://store.steampowered.com/app/108200/" target="_blank">u$d 9.99</a></td>
+<td>$ 75</td>
 </tr>
 
 </table>
