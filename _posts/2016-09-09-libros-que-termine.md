@@ -12,6 +12,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 <h2>2017</h2>
 <ul>
 <li>Visual Studio Code Succintly &#9642; Alessandro Del Sole</li>
+<li>Whales: Giants Of The Seas And Oceans &#9642; Yves Cohat, Anne Collet</li>
 <li>Yo contra el mundo &#9642; Esteban Podetti</li>
 <li>Rabia &#9642; Stephen King</li>
 <li>Confesiones de un chef &#9642; Anthony Bourdain</li>
