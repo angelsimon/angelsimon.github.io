@@ -20,4 +20,4 @@ Por suerte, se ha llegado a una cura. Elevadas dosis de feminismo en niñas y ni
 <br><br>
 NOTA: Muchas mujeres han desarrollado un nivel de feminismo en sangre muy alto. Llevándolas a niveles de violencia leves pero similares a los encontrados en quienes padecen machismo.
 <br><br>
-* - Aparentemente el apellido de la doctora era Feminista. Pero despectivamente, el Doctor Macho de la Sociedad Machista de Medicina, quien padecía de una enfermedad llamada Machismo, la llamó despectivamente Feminazi. Siendo acuñado por toda la comunidad de cerebros pequeños.
+* Aparentemente el apellido de la doctora era Feminista. Pero despectivamente, el Doctor Macho de la Sociedad Machista de Medicina, quien padecía de una enfermedad llamada Machismo, la llamó despectivamente Feminazi. Siendo acuñado por toda la comunidad de cerebros pequeños.
