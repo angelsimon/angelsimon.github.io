@@ -8,8 +8,8 @@ ogimage: drafeminazi/drafeminista.jpg
 visible: true
 ---
 <h2>Argentina, año 2XXX</h2>
-La Dra. Aldana Feminazi* investiga un caso puntual que ocurre en Argentina y que aqueja únicamente a las mujeres de esa región. Este mal es totalmente nocivo para las mujeres y practicamente al poco tiempo de estar expuestas provoca la muerte de diversas formas.<br>
-Las muertes son producidas por un agente externo aún no identificado por la Sociedad Machista de Medicina. La Dra. Feminazi se atreve a asegurar que algunos especímenes del sexo masculino son la causa de este mal. Obviamente, la Sociedad Machista de Medicina desacredita esta versión llamando "Feminazis" a todas aquellas que piensas así.<br>
+La Dra. Aldana Feminazi* investiga un caso puntual que ocurre en Argentina y que aqueja únicamente a las mujeres de esa región. Este mal es totalmente nocivo para las mujeres y prácticamente al poco tiempo de estar expuestas, provoca la muerte de diversas formas.<br>
+Las muertes son producidas por un agente externo aún no identificado por la Sociedad Machista de Medicina. La Dra. Feminazi se atreve a asegurar que algunos especímenes del sexo masculino son la causa de este mal. Obviamente, la Sociedad Machista de Medicina desacredita esta versión llamando "Feminazis" a todas aquellas que piensan así.<br>
 La forma de deceso de las mujeres que padecen este mal son variadas aunque todas terribles. Muchas mueren estranguladas, apuñaladas, empaladas, etc. Y en muchos casos se ha visto que antes de morir también son abusadas sexualmente.<br>
 La Dra Feminazi siguió investigando sobre las causas de este terrible padecimiento. Muchas otras mujeres se unieron a su lucha. Incluso, muchos hombres aceptaron que la causa de esta calamidad era perpetrada por seres de su misma especie, del género masculino y con un importante desiquilibro mental que lleva a producir esta enorme malignidad sobre las mujeres.<br>
 Pero la Sociedad Machista de Medicina rápidamente anunció los pasos a seguir para que las mujeres estén a salvo: lavarse bien las manos, una dieta saludable, no estar afuera de noche y evitar la pollerita cortita.<br><br>
