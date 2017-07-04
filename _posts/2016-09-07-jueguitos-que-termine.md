@@ -15,8 +15,9 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 
 <h2>2016</h2>
 <ul>
-<li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="playing">&#9733;</span></li>
-<li>The Lost Vikings &#9642; PC DOS <span title="Jugando" class="playing">&#9733;</span></li>
+<li>Wonder Boy: The Dragon's Trap <span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
+<li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="lost">&#9733;</span></li>
+<li>The Lost Vikings &#9642; PC DOS <span title="Jugando" class="lost">&#9733;</span></li>
 <li>Tyrian 2000 &#9642; PC DOS <span title="Jugando" class="playing">&#9733;</span></li>
 <li>Metroid: Zero Mission &#9642; Gameboy Advance<span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li><a href="http://angelsimon.github.io/2016/09/14/kid-dracula.html" target="_blank">Kid Dracula &#9642; Gameboy</a><span title="Completado" class="won">&#9733;</span></li>
