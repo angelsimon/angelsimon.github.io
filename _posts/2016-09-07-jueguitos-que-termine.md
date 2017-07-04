@@ -13,9 +13,12 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <span class="won">&#9733;</span> Completado | <span class="playing">&#9733;</span> Actualmente jugando | <span class="lost">&#9733;</span> Jugado pero no completado | <span title="Favorito" class="fav">&hearts;</span> Favorito
 </div>
 
+<h2>2017</h2>
+<ul>
+<li>Wonder Boy: The Dragon's Trap &#9642; PC Windows <span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
+</ul>
 <h2>2016</h2>
 <ul>
-<li>Wonder Boy: The Dragon's Trap <span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 <li>Super Meat Boy &#9642; PC Linux <span title="Jugando" class="lost">&#9733;</span></li>
 <li>The Lost Vikings &#9642; PC DOS <span title="Jugando" class="lost">&#9733;</span></li>
 <li>Tyrian 2000 &#9642; PC DOS <span title="Jugando" class="playing">&#9733;</span></li>
