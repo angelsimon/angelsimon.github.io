@@ -2,6 +2,7 @@
 ---
 //@import 'https://fonts.googleapis.com/css?family=Noto+Serif';
 @import 'https://fonts.googleapis.com/css?family=Catamaran';
+@import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Cambo');
 
 .footer{
@@ -136,7 +137,7 @@ body {
 }
 
 html {
-  font-family: "Cambo", "Catamaran", "Noto Serif", Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cambo", "Noto Serif", 'Times New Roman', Times, serif;
   font-size: 24px;
   font-weight: 300;
   line-height: 1.6;
@@ -166,15 +167,15 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
-  font-weight: 600;
+  font-weight: 900;
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
-  font-family: "Catamaran";
+  font-family: "Lato";
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 h2 {
