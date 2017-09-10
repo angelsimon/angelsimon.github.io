@@ -12,6 +12,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 <h2>2017</h2>
 <ul>
 <li>El nombre de la rosa &#9642; Umberto Eco (leyendo)</li>
+<li>La historia de Nintendo &#9642; Pérez Rodríguez, Uxio</li>
 <li>Visual Studio Code Succintly &#9642; Alessandro Del Sole</li>
 <li>Whales: Giants Of The Seas And Oceans &#9642; Yves Cohat, Anne Collet</li>
 <li>Yo contra el mundo &#9642; Esteban Podetti</li>
