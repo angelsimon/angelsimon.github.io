@@ -15,10 +15,9 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 
 <h2>2018</h2>
 <ul>
-<li>Shovel Knight &#9642; SteamOS <span class="playing">&#9733;</span> 
-<li>Adventure Island II &#9642; NES <span class="playing">&#9733;</span> 
-<li>Metroid Fusion &#9642; Gameboy Advance <span class="playing">&#9733;</span> 
-</li>
+<li>Shovel Knight &#9642; SteamOS <span class="playing">&#9733;</span></li> 
+<li>Adventure Island II &#9642; NES <span class="playing">&#9733;</span></li>
+<li>Metroid Fusion &#9642; Gameboy Advance <span class="playing">&#9733;</span></li>
 </ul>
 <h2>2017</h2>
 <ul>
