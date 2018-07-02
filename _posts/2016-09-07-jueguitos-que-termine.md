@@ -13,6 +13,13 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 <span class="won">&#9733;</span> Completado | <span class="playing">&#9733;</span> Actualmente jugando | <span class="lost">&#9733;</span> Jugado pero no completado | <span title="Favorito" class="fav">&hearts;</span> Favorito
 </div>
 
+<h2>2018</h2>
+<ul>
+<li>Shovel Knight &#9642; SteamOS <span class="playing">&#9733;</span> 
+<li>Adventure Island II &#9642; NES <span class="playing">&#9733;</span> 
+<li>Metroid Fusion &#9642; Gameboy Advance <span class="playing">&#9733;</span> 
+</li>
+</ul>
 <h2>2017</h2>
 <ul>
 <li>Cuphead &#9642; PC Windows <span class="playing">&#9733;</span> </li>
