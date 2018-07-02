@@ -15,15 +15,15 @@ Un breve listado de todos los jueguitos que jugué, algunos de ellos pude pasarl
 
 <h2>2018</h2>
 <ul>
-<li>Shovel Knight &#9642; SteamOS <span class="playing">&#9733;</span></li> 
-<li>Adventure Island II &#9642; NES <span class="playing">&#9733;</span></li>
-<li>Metroid Fusion &#9642; Gameboy Advance <span class="playing">&#9733;</span></li>
-<li>Tyrian 2000 &#9642; PC DOS <span class="won">&#9733;</span></li>
+<li>Shovel Knight &#9642; SteamOS <span title="Jugando" class="playing">&#9733;</span></li> 
+<li>Adventure Island II &#9642; NES <span title="Jugando" class="playing">&#9733;</span></li>
+<li>Metroid Fusion &#9642; Gameboy Advance <span title="Jugando" class="playing">&#9733;</span></li>
+<li>Tyrian 2000 &#9642; PC DOS <span title="Completado" class="won">&#9733;</span></li>
 </ul>
 <h2>2017</h2>
 <ul>
-<li>Cuphead &#9642; PC Windows <span class="playing">&#9733;</span> </li>
-<li>Shovel Knight &#9642; PC Windows <span class="playing">&#9733;</span> </li>
+<li>Cuphead &#9642; PC Windows <span title="Jugando" class="playing">&#9733;</span> </li>
+<li>Shovel Knight &#9642; PC Windows <span title="Jugando" class="playing">&#9733;</span> </li>
 <li>Wonder Boy: The Dragon's Trap &#9642; PC Windows <span title="Completado" class="won">&#9733;</span><span title="Favorito" class="fav">&hearts;</span></li>
 </ul>
 <h2>2016</h2>
