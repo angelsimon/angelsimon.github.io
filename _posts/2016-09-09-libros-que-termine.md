@@ -11,6 +11,7 @@ Un breve listado de todos los libros que leí, estoy leyendo y planeo leer.
 
 <h2>2018</h2>
 <ul>
+<li>Los venenos de la corona &#9642; Maurice Druon</li>
 <li>La cúpula &#9642; Stephen King</li>
 </ul>
 <h2>2017</h2>
