@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css?family=Cambo|Roboto:400,700&display=swap');
+html { font-size: calc(0.5em + 0.5vw) }
+body{
+  font-family: 'Roboto', Helvetica;
+  font-size: 1.75rem;
+  background-color: #fff;
+}
+
+ul,
+ol {
+	padding: 0;
+	margin: 0;
+}
+
+/* Navbar for Blog */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  border-bottom: 3px solid #888;
+  color: #fff;
+  position: fixed; 
+  top: 0;
+  width: 100%; 
+}
+.navbar h1{
+  font-size: 1.7rem;
+  font-family: 'Roboto', Arial;
+  margin-top: 25px;
+  margin-left: 50px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bolder;
+  letter-spacing: -3px;
+}
+/* NavBar - Home */
+nav {
+  height: 100px;
+  line-height: 100px;
+}
+
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+  height: 100px;
+  line-height: 100px;
+}
+
+nav .button-collapse i {
+  height: 100px;
+  line-height: 100px;
+}
+
+
+@media only screen and (min-width: 601px){
+  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+      height: 100px;
+      line-height: 100px;
+  }
+}
+
+.nav-wrapper{
+  background-color: #333;
+  border-bottom: 3px solid #888;
+  color: #fff;
+  padding-right: 50px;
+}
+.nav-wrapper .brand-logo-small{
+  font-family: 'Roboto', Arial;
+  font-size: 2.5rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bolder;
+  letter-spacing: -1.5px;
+}
+
+.nav-wrapper .brand-logo-big{
+  font-family: 'Roboto', Arial;
+  font-size: 3.5rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-left: 50px;
+  letter-spacing: -3px;
+}
+
+/* Container */
+p{
+  line-height: 150%;
+}
+.section{
+  border-bottom: solid 1px lightslategray;
+}
+.responsive{
+  width: 100%;
+  height: auto;
+  max-width: 250px;
+}
+
+.container{
+  margin-top: 5%;
+}
+.container a{
+  color: #ee6e73;
+}
+.container a:hover{
+    text-decoration: underline dashed;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Cambo', Arial, sans;
+}
+/*
+  Experiencia laboral y educación
+*/
+.lista {
+	list-style: none;
+  margin-left: 60px;
+  padding-left: 50px;
+  border-left: 2px dashed #40424a;
+}
+.puesto{
+  font-weight: bold;
+  color: #ee6e73;
+}
+
+.lista .item {
+	margin-bottom: 120px;
+  position: relative;
+  
+}
+.lista .item-corto{
+  margin-bottom: 60px;
+  position: relative;
+}
+.lista .item-corto:after {
+	position: absolute;
+	content: '';
+	width: 15px;
+	height: 15px;
+	border: 2px solid #40424a;
+	border-radius: 50px;
+	background: #cacaca;
+	top: 15px;
+	left: -58px;
+}
+
+.lista li:last-child {
+	margin-bottom: 0;
+}
+
+.lista .item:after {
+	position: absolute;
+	content: '';
+	width: 15px;
+	height: 15px;
+	border: 2px solid #40424a;
+	border-radius: 50px;
+	background: #cacaca;
+	top: 30px;
+	left: -58px;
+}
+.page-footer{
+  margin-top: 100px;
+  border-top: 3px solid #888;
+  background-color: #333; 
+  color: #fff;
+}
+.page-footer .container{
+  
+  margin-top: 10px;
+  padding-bottom: 50px;
+}
+.page-footer i{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.page-footer a{
+  text-decoration: none;
+  color: #fff;
+}
+.page-footer a:hover{
+  color: #ee6e73;
+}
+.salmon :hover{
+  color: #ee6e73;
+}
+
+.cliente{
+  min-width: 276px;
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
+.hobby{
+  min-width: 150px;
+  margin-bottom: 30px;
+}
+.hobby a{
+  color: #333;
+}
+.hobby a:hover{
+  color: #ee6e73;
+}
+
+/* Blog */
+#blog .titulo{
+  font-weight: bold;
+}
+#blog .info{
+  font-size: 1.5rem;
+}
+#blog .fecha{
+  font-size: 1.5rem;
+  color: #888;
+}
+
+/* 
+Botón de descarga 
+https://codepen.io/miroot/pen/hmeHn de Miro Karilahti
+*/
+.face-button {
+  height: 64px;
+  display: inline-block;
+  border: 3px solid #ee6e73;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
+  color: #ee6e73;
+  overflow: hidden;
+}
+  .face-button .icon {
+    margin-right: 6px;
+  }
+  
+  .face-primary,
+  .face-secondary {
+    display: block;
+    padding: 0 32px;
+    line-height: 64px;
+    transition: margin .4s;
+  }
+  
+  .face-primary {
+    background-color: #ee6e73;
+    color: #fff;
+  }
+  
+  .face-button:hover .face-primary {
+    margin-top: -64px;
+  }
+
+  /*
+    Efecto consola
+    https://codepen.io/alandunning/pen/RWRrEW de Alan Duning
+  */
+  .console{
+    position: relative;
+    display: inline-block;
+    line-height: 40px;
+  }
+  .console::after {
+    content: "";
+    position: relative;
+    display: inline-block;
+    background-color: #ee6e73;
+    vertical-align: top;
+    width: 20px;
+    height: 40px;
+    /* 
+    Animation paramaters:
+    blink = animation-name, 
+    1s = animation-duration, 
+    step-end = animation-timing-function,
+    infinite = animation-iteration-count
+    */
+    -webkit-animation: blink 1s step-end infinite;
+    animation: blink 1s step-end infinite;
+  }
+  
+  @-webkit-keyframes blink {
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+  }
+  
+  @keyframes blink {
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+  }

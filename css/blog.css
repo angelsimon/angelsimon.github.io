@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Condensed&display=swap');
+.container{
+  margin-top: 10%;
+}
+h1{
+  font-family: 'Cabin Condensed', Arial, sans;
+}
+article h1{
+  margin-bottom: 5px;
+}
+.entrada{
+  font-family: 'Cambo', 'Times New Roman', Times, serif;
+  border-top: 1px #cacaca solid;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.category{
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.fecha{
+  margin-top: 5px;
+  text-transform: uppercase;
+  color: #888;
+  font-size: 1rem;
+}
