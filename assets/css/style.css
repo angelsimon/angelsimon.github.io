@@ -130,14 +130,14 @@ a{color: var(--primary-font-color); text-decoration: none;}
 
 .post-tag{margin-bottom: 5px;}
 
-.post-tag{ padding: 3px 10px; margin-right: 5px; margin-bottom: 10px; display: flex; align-items: center;}
+.tags{ padding: 3px 10px; margin-right: 5px; margin-bottom: 10px; display: flex; align-items: center;}
 
-.post-tag{
+.tags a{
   text-decoration: none;
   color: var(--primary-font-color);
   text-decoration-color: var(--primary-font-color);
 }
-.post-tag hover{
+.tags a:hover{
   text-decoration-line: underline;
   text-decoration-style: dotted;
 }
