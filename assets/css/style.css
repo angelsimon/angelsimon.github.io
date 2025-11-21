@@ -3,6 +3,8 @@
 
 :root {
     --bg-color: #fafafa;
+    --bg-tag-color: #161f29;
+    --bg-tag-textcolor: #bfbfbf;
     --bg-hover-color: #ececec;
     --body-bg: #fafafa;
     --primary-font-color: #000;
@@ -13,6 +15,8 @@
 
 [data-theme="dark"] {
   --bg-color: #161f29;
+  --bg-tag-textcolor: #bfbfbf;
+  --bg-tag-color: #161f29;
   --bg-hover-color:#36404c;
   --body-bg: #10171e;
   --primary-font-color: #bfbfbf;
@@ -120,7 +124,7 @@ body{
 .post-tag{margin-bottom: 5px;}
 
 .tags{display: flex; flex-wrap: wrap; justify-content: space-between;}
-.tag{background: var(--bg-color); padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
+.tag{background: var(--bg-color); color:var(--bg-tag-textcolor); padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
 
 .navigation{
   width: 100%; 
@@ -161,7 +165,7 @@ body{
   font-family: var(--font-titulos);
 }
 
-.post-tag{background: var(--bg-color); color:var(--primary-font-color); padding: 5px 10px;}
+.post-tag{background: var(--bg-tag-color); color:var(--primary-font-color); padding: 5px 10px;}
 
 .profile{
   width: 100%; 
