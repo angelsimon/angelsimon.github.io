@@ -7,7 +7,7 @@
     --bg-hover-color: #ececec;
     --body-bg: #fafafa;
     --primary-font-color: #000;
-    --border-color: #dadada;
+    --border-color: #dadada38;
     --font-titulos: 'IBM Plex Sans', 'Times New Roman', Times, serif;
     --font-contenido: 'Roboto', sans-serif;
 }
@@ -29,6 +29,12 @@ body{
   margin: 0;
   padding: 5px;
 }
+
+hr {
+    border: none;
+    border-top: 2px solid var(--border-color); /* color y grosor */
+}
+
 .container{
   display: flex; 
   flex-direction: row; 
