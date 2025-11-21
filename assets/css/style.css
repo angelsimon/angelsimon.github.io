@@ -2,7 +2,6 @@
 
 :root {
     --bg-color: #fafafa;
-    --bg-color-pinned: #dadada;
     --bg-hover-color: #ececec;
     --body-bg: #fafafa;
     --primary-font-color: #000;
@@ -11,7 +10,6 @@
 
 [data-theme="dark"] {
   --bg-color: #161f29;
-  --bg-color-pinned: #36405c;
   --bg-hover-color:#36404c;
   --body-bg: #10171e;
   --primary-font-color: #bfbfbf;
@@ -73,7 +71,6 @@ body{
 }
 
 .post-list .post-title{width: 80%; color: var(--primary-font-color); font-weight: 500; font-family: 'IBM Plex Sans', 'Times New Roman', Times, serif;}
-.post-list .post-title-pinned{width: 80%; color: var(--primary-font-color); background-color: var(--bg-color-pinned); font-weight: 500; font-family: 'IBM Plex Sans', 'Times New Roman', Times, serif;}
 
 .post-list .post-date{width: 20%; text-align: right;}
 
