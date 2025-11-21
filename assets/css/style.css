@@ -168,6 +168,7 @@ hr {
 
 .blog-post-content h1,h2,h3,h4,h5{
   font-family: var(--font-titulos);
+  line-height: normal;
 }
 
 .post-tag{color:var(--primary-font-color); padding: 5px 10px;}
@@ -198,9 +199,6 @@ hr {
 
 .text-right{text-align: right;}
 .w-100{width: 100%!important;}
-
-a:hover{text-decoration: dashed;}
-a{color: var(--primary-font-color); text-decoration: dashed;}
 
 img{max-width: 100%;}
 
