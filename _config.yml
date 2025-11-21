@@ -1,0 +1,79 @@
+# Site settings
+site: ANGEL SIMON
+title: ANGEL SIMON
+keywords: blog
+description: >-
+  Angel Simon - Blog
+lang: es-ar
+timezone:  America/Buenos_Aires
+repo: https://github.com/angelsimon/angelsimon.github.io # site repo [optional]
+google_verify:      XXX # Put your Google Verification here
+google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
+discus-identifier:  XXX
+
+# Author settings
+author:
+  name: Angel Simon
+  bio: Desarrollador de Software
+  picture: 
+  github: angelsimon # github username
+  youtube: https://www.youtube.com/channel/AngelSimon # youtube username
+  linkedin: AngelSimon # linkedin username
+
+
+# URL settings
+url: "https://angelsimon.github.io" # Domain Name of host. [username].github.io for github pages
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+paginate: 20
+paginate_path: "/page/:num"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+relative_links:
+  enabled:     true
+  collections: false

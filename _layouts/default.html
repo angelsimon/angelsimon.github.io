@@ -1,0 +1,35 @@
+{% include header.html %}
+<div class="container">
+	<div class="profile">
+		<div class="profile-about">
+			<a href="{{ site.url }}"><h2 style="margin-bottom: 0; font-weight: 700;">{{site.title}}</h2></a>
+			{% if site.author.facebook %}
+				<a href="https://facebook.com/{{site.author.facebook}}" target="_blank"><img src="assets/images/icon/facebook.svg" class="social-icon"></a>
+			{% endif %}
+			{% if site.author.twitter %}
+				<a href="https://twitter.com/{{site.author.twitter}}" target="_blank"><img src="assets/images/icon/twitter.svg" class="social-icon"></a>
+			{% endif %}
+			{% if site.author.instagram %}
+				<a href="https://instagram.com/{{site.author.instagram}}" target="_blank"><img src="assets/images/icon/instagram.svg" class="social-icon"></a>
+			{% endif %}
+			{% if site.author.youtube %}
+				<a href="{{site.author.youtube}}" target="_blank"><img src="assets/images/icon/youtube.svg" class="social-icon"></a>
+			{% endif %}
+			{% if site.author.github %}
+				<a href="https://github.com/{{site.author.github}}" target="_blank"><img src="assets/images/icon/github.svg" class="social-icon"></a>
+			{% endif %}
+			{% if site.author.linkedin %}
+				<a href="https://linkedin.com/in/{{site.author.linkedin}}" target="_blank"><img src="assets/images/icon/linkedin.svg" class="social-icon"></a>
+			{% endif %}
+			<a href="about"><img src="assets/images/icon/me.svg" class="social-icon"></a>
+			<div class="mode" id="mode-switcher" onclick="toggleNightMode();">
+				<span></span>
+			</div>
+		</div>
+	</div>
+	{{ content }}
+	<div class="footer">
+		<span>Diseño de Jekyll por <a href="https://hakan.io"><b>Hakan</b></a></span>
+	</div>
+</div>
+{% include footer.html %}
