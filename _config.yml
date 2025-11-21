@@ -9,7 +9,7 @@ timezone:  America/Buenos_Aires
 repo: https://github.com/angelsimon/angelsimon.github.io # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+discus-identifier:  angel-simon
 
 # Author settings
 author:
