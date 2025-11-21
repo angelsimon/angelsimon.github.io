@@ -14,6 +14,12 @@ Un breve listado de todos los libros que leí, estoy leyendo (📌), recomiendo 
 
 ### 2025
 
+- El pescador ▪ John Langan 📌
+- El ritual ▪ Adam L.G. Nevill
+- El problema de los tres cuerpos ▪ Liu Cixin
+- La canción de Kali ▪ Dan Simmons
+- La maldición de Hill House ▪ Shirley Jackson
+- Invasión: Los ladrones de cuerpos ▪ Jack Finney
 - Lluvia ▪ Michael McDowell
 - La fortuna ▪ Michael McDowell
 - La guerra ▪ Michael McDowell
