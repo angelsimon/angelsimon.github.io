@@ -175,6 +175,7 @@ a{color: var(--primary-font-color); text-decoration: none;}
 .navigation .next{width: 45%; color: var(--primary-font-color); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-weight: 600; text-align: right; padding: 5px 10px;}
 
 .pagination{
+  font-family: var(--font-titulos);
   width: 100%; 
   display: flex; 
   flex-direction: row; 
@@ -183,6 +184,7 @@ a{color: var(--primary-font-color); text-decoration: none;}
   align-items: center;
   padding: 5px 10px;
   margin-bottom: 5px;
+  margin-top: 10px;
   background:var(--bg-color);
 }
 .pagination .prev{color: var(--primary-font-color); font-weight: 600;}
