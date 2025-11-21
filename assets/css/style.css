@@ -3,7 +3,7 @@
 :root {
     --bg-color: #fafafa;
     --bg-hover-color: #ececec;
-    --body-bg: #fff;
+    --body-bg: #fafafa;
     --primary-font-color: #000;
     --border-color: #dadada;
 }
@@ -62,7 +62,7 @@ body{
   align-items: center;
   padding: 5px 10px;
   margin-bottom: 5px;
-  /*background:var(--bg-color);
+  background:var(--bg-color);
   /*border: 1px dashed var(--border-color);*/
 }
 
