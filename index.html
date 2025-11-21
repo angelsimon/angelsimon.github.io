@@ -11,12 +11,12 @@ layout: default
       {% endif %}
     {% endfor %}
 	{% for post in paginator.posts %}
-    {% if post.status != 'pinned' %}
+    {% unless post.status == 'pinned' or post.status == 'draft' %}
         <div class="post-list">
             <a class="post-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%d.%m.%Y" }}</time>
         </div>
-    {% endif %}
+    {% endunless %}
     {% endfor %}
 </div>
 {% include pagination.html %}

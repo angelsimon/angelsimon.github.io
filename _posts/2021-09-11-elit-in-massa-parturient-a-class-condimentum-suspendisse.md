@@ -5,6 +5,7 @@ author: Hakan Torun
 layout: post
 permalink: /elit-in-massa-parturient-a-class-condimentum-suspendisse/
 categories: Genel
+status: draft
 tags: [lorem, ipsum]
 ---
 Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
