@@ -98,7 +98,7 @@ hr {
   justify-content: space-between; 
   align-items: center;
   padding: 5px 10px;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   background:var(--bg-color);
   border:1px dashed var(--border-color);
 }
@@ -127,6 +127,9 @@ hr {
 
 .tags{display: flex; flex-wrap: wrap; justify-content: space-between;}
 .tag{ padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
+.tag a{
+  text-decoration: dashed;
+}
 
 .navigation{
   width: 100%; 
