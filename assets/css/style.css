@@ -128,7 +128,10 @@ hr {
 .post-tag{margin-bottom: 5px;}
 
 .tags{display: flex; flex-wrap: wrap; justify-content: space-between;}
-.tag{background: var(--bg-color); padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
+.tag{ padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
+.tag a:hover{
+  background: var(--bg-color);
+}
 
 .navigation{
   width: 100%; 
