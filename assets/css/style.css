@@ -130,16 +130,14 @@ a{color: var(--primary-font-color); text-decoration: none;}
 
 .post-tag{margin-bottom: 5px;}
 
-.tags{display: flex; flex-wrap: wrap; justify-content: space-between;}
+.post-tag{ padding: 3px 10px; margin-right: 5px; margin-bottom: 10px; display: flex; align-items: center;}
 
-.post-tag{ padding: 5px 10px; margin-right: 10px; margin-bottom: 10px; display: flex; align-items: center;}
-
-.post-tag a{
+.post-tag{
   text-decoration: none;
   color: var(--primary-font-color);
   text-decoration-color: var(--primary-font-color);
 }
-.post-tag a:hover{
+.post-tag hover{
   text-decoration-line: underline;
   text-decoration-style: dotted;
 }
