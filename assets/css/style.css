@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+
 :root {
     --bg-color: #fafafa;
     --bg-hover-color: #ececec;
     --body-bg: #fafafa;
     --primary-font-color: #000;
     --border-color: #dadada;
+    --font-titulos: 'IBM Plex Sans', 'Times New Roman', Times, serif;
+    --font-contenido: 'Roboto', sans-serif;
 }
 
 [data-theme="dark"] {
@@ -17,7 +20,7 @@
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--font-contenido);
   font-weight: 400;
   background: var(--body-bg);
   color: var(--primary-font-color);
@@ -70,11 +73,18 @@ body{
   background: var(--bg-hover-color);
 }
 
-.post-list .post-title{width: 80%; color: var(--primary-font-color); font-weight: 500; font-family: 'IBM Plex Sans', 'Times New Roman', Times, serif;}
+.post-list .post-title{
+  width: 80%; 
+  color: var(--primary-font-color); 
+  font-weight: 500; 
+  font-family: var(--font-titulos);
+}
 
 .post-list .post-date{width: 20%; text-align: right;}
 
 .post-header{
+  font-family: var(--font-titulos);  
+  font-weight: 600; 
   width: 100%; 
   display: flex; 
   flex-direction: row; 
@@ -87,8 +97,15 @@ body{
   border:1px dashed var(--border-color);
 }
 
-.post-header .post-category{font-weight: 600; color: var(--primary-font-color); display: flex; justify-content: flex-end; align-items: center;}
-.post-header .post-date{font-weight: 600;}
+.post-header .post-category{
+  color: var(--primary-font-color); 
+  display: flex; justify-content: 
+  flex-end; 
+  align-items: center;
+}
+.post-header .post-date{
+  font-weight: 600;
+}
 
 .tags-container{
   width: 100%; 
@@ -141,7 +158,7 @@ body{
 }
 
 .blog-post-content h1,h2,h3,h4,h5{
-  font-family: 'IBM Plex Sans', 'Times New Roman', Times, serif;
+  font-family: var(--font-titulos);
 }
 
 .post-tag{background: var(--bg-color); color:var(--primary-font-color); padding: 5px 10px;}
