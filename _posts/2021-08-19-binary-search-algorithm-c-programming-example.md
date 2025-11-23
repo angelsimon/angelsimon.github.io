@@ -4,7 +4,7 @@ date: 2021-08-19T00:00:00+00:00
 author: Hakan Torun
 layout: post
 permalink: /binary-search-algorithm-c-programming-example/
-categories: notes
+category: notes
 tags: [lorem, ipsum]
 ---
 Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens

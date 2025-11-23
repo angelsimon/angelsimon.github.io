@@ -4,7 +4,7 @@ date: 2021-09-11T00:00:00+00:00
 author: Hakan Torun
 layout: post
 permalink: /elit-in-massa-parturient-a-class-condimentum-suspendisse/
-categories: Genel
+category: Genel
 status: draft
 tags: [lorem, ipsum]
 ---

@@ -4,7 +4,7 @@ date: 2025-11-19
 author: Angel Simon
 layout: post
 permalink: /mis-libros/
-categories: Libros
+category: notes
 tags: [libros, lectura]
 status: pinned
 ---

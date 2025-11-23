@@ -4,7 +4,7 @@ date: 2021-08-27T00:00:00+00:00
 author: Hakan Torun
 layout: post
 permalink: /email-address-format-php-filter-var-function-and-rfc-5321/
-categories: Genel
+category: Genel
 tags: [email, php, filter_var]
 ---
 # Proles non tamen habet
