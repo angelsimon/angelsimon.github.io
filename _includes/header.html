@@ -1,0 +1,17 @@
+<header class="header">
+    <div class="header-container">
+        <a href="{{ site.baseurl }}/" class="header-logo">{{ site.title }}</a>
+        <nav class="header-nav">
+            <button class="menu-toggle" aria-label="Menú">☰</button>
+            <ul class="nav-links">
+                <li><a href="{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></li>
+                <li><a href="{{ site.author.youtube }}" target="_blank" rel="noopener">Youtube</a></li>
+                <li><a href="{{ '/about' | relative_url }}">Sobre mí</a></li>
+
+                <li><button id="theme-toggle" aria-label="Cambiar modo oscuro/claro" title="Cambiar tema">
+                    <span class="icon">🌙</span>
+                </button></li>
+            </ul>
+        </nav>
+    </div>
+</header>

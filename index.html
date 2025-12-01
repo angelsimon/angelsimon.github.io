@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="static-pages">
+    {% for page in site.pages %}
+        {% if page.status == 'pinned' %}
+    <h2 class="static-title"><a href="{{ page.url | relative_url }}">{{ page.title }} 📌</a></h2>
+    <p class="meta-info">Página estática - Última modificación el {{ page.date | date: "%d %B %Y" }}</p>
+        {% endif %}
+    {% endfor %}
+</section>
+
+<section class="posts-list" id="postsList">
+    {% for post in paginator.posts %}
+
+      {% unless post.status == 'pinned' or post.status == 'draft' %}
+        <article class="post-item">
+            <h2 class="reset-link"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <p class="meta-info">Publicado el {{ post.date | date: "%d %B %Y" }}</p>
+        </article>
+        {% endunless %}
+
+        {% if post.status == 'pinned' %}
+            {% if post.status != 'draft' %}
+            <article class="post-item">
+                <h2 class="reset-link"><a href="{{ post.url | relative_url }}">{{ post.title }} 📌</a></h2>
+                <p class="meta-info">Página estática - Última modificación el {{ post.date | date: "%d %B %Y" }}</p>
+                </article>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</section>
+
+{% include pagination.html %}

@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<article class="post-content">
+    <h1 class="post-heading">{{ page.title }}</h1>
+    
+    <div class="post-meta">
+        {% if page.categories %}
+            {% for category in page.categories %}
+                <span class="category-tag">
+                <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}">
+                    {{ category }}
+                </a>
+                </span>
+            {% endfor %}
+            {% endif %}
+
+        {% if page.tags %}
+            {% for tag in page.tags %}
+                <span class="tag">
+                <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">
+                    {{ tag }}
+                </a>
+                </span>
+            {% endfor %}
+        {% endif %}
+    </div>
+
+    <span class="post-date">Publicado el {{ page.date | date: "%d/%m/%Y" }}</span>
+
+    <hr class="separator">
+
+    {{ content }}
+
+    <hr class="separator" style="margin-top: 3rem;">
+
+    <nav class="post-navigation">
+        {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}" class="nav-link">← {{ page.previous.title }}</a>
+        {% else %}
+        <span></span>
+        {% endif %}
+        
+        {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}" class="nav-link">{{ page.next.title }} →</a>
+        {% endif %}
+    </nav>
+</article>
+
+{% include disqus.html %}

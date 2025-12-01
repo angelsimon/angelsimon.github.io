@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'es' }}" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/highlight.css' | relative_url }}">
+
+    {% if page.date %}
+        <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+        <meta content="{{ site.url }}/about/" property="article:author">
+    {% endif %}
+
+    {% seo %}
+</head>

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article class="post-content">
+    <h1 class="post-heading">{{ page.title }}</h1>
+    
+    <div class="post-meta">
+        {% if page.date %}
+        <span class="post-date">Publicado el {{ page.date | date: "%d %B %Y" }}</span>
+        {% endif %}
+    </div>
+
+    {{ content }}
+</article>

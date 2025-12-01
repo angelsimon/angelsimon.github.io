@@ -1,0 +1,57 @@
+# Configuración del sitio Jekyll
+title: ANGEL SIMON
+description: Blog personal de Angel Simón
+url: "" # la URL base de tu sitio (sin "/" al final)
+baseurl: "" # el subpath de tu sitio, ej: /blog
+keywords: desarrollo de software, programación, literatura, retrogaming
+google_analytics: G-XXXXXXXXXX
+discus-identifier:  XXX
+
+# Autor
+author:
+  name: Angel Simón
+  github: https://github.com/angelsimon
+  youtube: https://www.youtube.com/@angelsimon
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+permalink: /:year/:month/:day/:title/
+
+# Paginación
+paginate: 5
+paginate_path: "/page/:num"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# Timezone y lenguaje
+timezone: America/Argentina/Buenos_Aires
+lang: es
+
+# Configuración de posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

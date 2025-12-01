@@ -1,0 +1,20 @@
+---
+layout: default
+title: Categorías
+permalink: /categories/
+---
+
+{% for category in site.categories %}
+    {% assign cat_name = category[0] %}
+  <section id="{{ cat_name | slugify }}">
+    <h2 class="color-secondary">#{{ cat_name }}</h2>
+    {% for post in category[1] %}
+    {% if post.status != 'draft' %}
+    <h2 class="static-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="meta-info">Última modificación el {{ post.date | date: "%d/%m/%Y" }}</p>
+    
+    {% endif %}
+    {% endfor %}
+  </section>
+  <hr class="separator">    
+{% endfor %}
