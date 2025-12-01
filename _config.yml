@@ -5,7 +5,7 @@ url: "" # la URL base de tu sitio (sin "/" al final)
 baseurl: "" # el subpath de tu sitio, ej: /blog
 keywords: desarrollo de software, programación, literatura, retrogaming
 google_analytics: G-XXXXXXXXXX
-discus-identifier:  XXX
+discus-identifier:  angel-simon
 
 # Autor
 author:
@@ -54,4 +54,5 @@ defaults:
       path: ""
       type: "pages"
     values:
+
       layout: "page"
