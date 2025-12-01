@@ -93,13 +93,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 1. Determinar el tema inicial
     if (!currentThemeName) {
-        // Si no hay tema guardado, intenta usar la preferencia del sistema (si es 'dark')
-        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            currentThemeName = 'dark';
-        } else {
-            // Si no hay preferencia oscura, usa el tema claro por defecto
+        // Si no hay preferencia oscura, usa el tema claro por defecto
             currentThemeName = DEFAULT_THEME_NAME;
-        }
     }
     
     // Aplicar el tema inicial
@@ -164,4 +159,5 @@ function updateTheme(themeName) {
         localStorage.setItem('theme', themeName);
         updateIcon(themeName);
     }
+
 }
