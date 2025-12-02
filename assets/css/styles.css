@@ -206,8 +206,8 @@ h6 { font-size: var(--h6-size); }
 
 .header-container {
     max-width: 1200px;
-    margin: 0 10% 0 10%;
-    padding: 0 2rem;
+    margin: 0 0;
+    padding: 0 0 0 12rem; 
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -259,8 +259,8 @@ h6 { font-size: var(--h6-size); }
 
 .right-elements {
     display: flex;
-    align-items: center; /* Alinea verticalmente el botón y el menú */
-    gap: 1.5rem; /* Espacio entre el selector de tema y la navegación/menú */
+    align-items: center;
+    gap: 1.5rem;
 }
 
 /* ============================================
@@ -269,8 +269,8 @@ h6 { font-size: var(--h6-size); }
 
 .container {
     max-width: 1200px;
-    margin: 0 10% 0 10%;
-    padding: 3rem 2rem;
+    margin: 0 0;
+    padding: 3rem 0 0 12rem; 
     flex-grow: 1;
 }
 
