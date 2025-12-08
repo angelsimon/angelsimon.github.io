@@ -13,15 +13,8 @@ layout: default
 
 <section class="posts-list" id="postsList">
     {% for post in paginator.posts %}
-
-      {% unless post.status == 'pinned' or post.status == 'draft' %}
-        <article class="post-item">
-            <h2 class="reset-link"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            <p class="meta-info">Publicado el {{ post.date | date: "%d %B %Y" }}</p>
-        </article>
-        {% endunless %}
-
-        {% if post.status == 'pinned' %}
+    
+      {% if post.status == 'pinned' %}
             {% if post.status != 'draft' %}
             <article class="post-item">
                 <h2 class="reset-link"><a href="{{ post.url | relative_url }}">{{ post.title }} 📌</a></h2>
@@ -29,6 +22,14 @@ layout: default
                 </article>
             {% endif %}
         {% endif %}
+    {% endfor %}
+    {% for post in paginator.posts %}
+        {% unless post.status == 'pinned' or post.status == 'draft' %}
+            <article class="post-item">
+                <h2 class="reset-link"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <p class="meta-info">Publicado el {{ post.date | date: "%d %B %Y" }}</p>
+            </article>
+        {% endunless %}
     {% endfor %}
 </section>
 
