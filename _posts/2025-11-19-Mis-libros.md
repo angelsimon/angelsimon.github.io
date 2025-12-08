@@ -14,7 +14,8 @@ Un breve listado de todos los libros que leí, estoy leyendo (📌), recomiendo 
 
 ### 2025
 
-- La chica que amaba a Tom Gordon ▪ Stephen King 📌
+- Ensayo sobre la ceguera ▪ José Saramago 📌
+- La chica que amaba a Tom Gordon ▪ Stephen King
 - El pescador ▪ John Langan
 - El ritual ▪ Adam L.G. Nevill
 - El problema de los tres cuerpos ▪ Liu Cixin
