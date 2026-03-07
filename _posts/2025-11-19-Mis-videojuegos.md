@@ -1,5 +1,5 @@
 ---
-title: "Mis videojuegos"
+title: "Videojuegos"
 date: 2025-11-19
 author: Angel Simon
 layout: post
@@ -10,6 +10,14 @@ status: pinned
 ---
 
 Un breve listado de todos los jueguitos que jugué, los que recomiendo (❤️) y aquellos que pude pasarlos hasta el final (⭐)
+
+### 2026
+- King's Bounty ▪ Sega Genesis
+
+
+### 2025
+- Traveller's Rest ▪ Steam
+
 
 ### 2024
 - Pokèmon - Crystal Version ▪ Gameboy Color

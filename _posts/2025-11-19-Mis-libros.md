@@ -1,5 +1,5 @@
 ---
-title: "Mis libros"
+title: "Libros"
 date: 2025-11-19
 author: Angel Simon
 layout: post
@@ -11,10 +11,13 @@ status: pinned
 
 Un breve listado de todos los libros que leí, estoy leyendo (📌), recomiendo leer (❤️) y los que abandoné sin terminar (💀).
 
+### 2026
+
+- El juego de Gerald ▪ Stephen King 📌
 
 ### 2025
 
-- Ensayo sobre la ceguera ▪ José Saramago 📌
+- Ensayo sobre la ceguera ▪ José Saramago
 - La chica que amaba a Tom Gordon ▪ Stephen King
 - El pescador ▪ John Langan
 - El ritual ▪ Adam L.G. Nevill
