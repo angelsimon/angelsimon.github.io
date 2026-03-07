@@ -678,11 +678,6 @@ h6 { font-size: var(--h6-size); }
 
 /* Mobile */
 @media (max-width: 768px) {
-    .about-section{
-        font-size: 1.2rem;
-        line-height: 1.6;
-    }
-
     .console::after {
         margin-left: 5px;
         vertical-align: middle;
