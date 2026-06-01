@@ -97,6 +97,35 @@ p{
     line-height: 1.75em;
 }
 
+blockquote {
+    position: relative;
+    margin: 2rem 0;
+    padding: 1.5rem 2rem 1.5rem 3rem;
+    background: var(--body-background-color);
+    border-left: 6px solid var(--primary-color);
+    border-radius: 4px;
+    font-size: 1.3rem;
+    font-style: italic;
+    line-height: 1.7;
+    color: var(--secondary-color);
+    box-shadow: 0 2px 8px rgba(0,0,0,.05);
+}
+
+blockquote::before {
+    content: "❝";
+    position: absolute;
+    left: 0.8rem;
+    top: 0.3rem;
+    font-size: 3rem;
+    color: var(--terciary-color);
+    font-style: normal;
+    line-height: 1;
+}
+
+blockquote p {
+    margin: 0;
+}
+
 
 
 /* ============================================
