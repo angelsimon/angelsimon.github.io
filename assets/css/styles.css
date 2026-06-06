@@ -519,6 +519,34 @@ h6 { font-size: var(--h6-size); }
     margin-bottom: 0.5rem;
 }
 
+.post-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
+
+.post-content img.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-content figure:not(.highlight) {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.post-content figure:not(.highlight) img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-content figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    color: var(--terciary-color);
+}
+
 .section-heading {
     font-weight: 600;
     color: var(--primary-color);

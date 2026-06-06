@@ -4,7 +4,7 @@ title: Sobre mí
 permalink: /about/
 ---
 
-<img align="center" src="../images/user1100.jpg" alt="Angel">
+<img src="../images/user1100.jpg" alt="Angel" class="centered">
 
 Hola anónimo, me llamo Angel y tengo 39 años. Me dedico a tiempo parcial al Desarrollo de Software en una empresa en la que realizamos soluciones para **Estaciones de Servicio** y todos los negocios que se relacionan al rubro. También soy docente en la Universidad Tecnológica Nacional en las carreras de **Técnico Universitario en Programación** e **Ingeniería Mecánica**.
 
