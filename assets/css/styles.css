@@ -151,12 +151,19 @@ figure.highlight {
     border-radius: 8px;
     font-size: 0.9rem;
     padding: 20px;
+    overflow-x: auto;
 }
+
+.code-scroll figure.highlight {
+    overflow-y: auto;
+    max-height: calc(var(--code-lines, 10) * 1.5em + 40px);
+}
+
 pre code {
     font-family: var(--monospace-font);
-    background-color: transparent; 
-    color: inherit;              
-    font-weight: normal;  
+    background-color: transparent;
+    color: inherit;
+    font-weight: normal;
 }
 
 /* Tables */

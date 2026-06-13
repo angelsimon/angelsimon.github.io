@@ -69,6 +69,19 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // ============================================
+// SCROLL VERTICAL OPCIONAL EN BLOQUES DE CÓDIGO
+// ============================================
+
+document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.code-scroll[data-lines]').forEach(function (wrapper) {
+        const lines = parseInt(wrapper.getAttribute('data-lines'), 10);
+        if (lines > 0) {
+            wrapper.style.setProperty('--code-lines', lines);
+        }
+    });
+});
+
+// ============================================
 // BOTÓN COPIAR CÓDIGO
 // ============================================
 
