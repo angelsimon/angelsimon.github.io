@@ -197,7 +197,7 @@ tbody tr:last-child td {
 
 /* Headers */ 
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--title-font-color);
+    font-family: var(--title-font);
     color: var(--title-font-color);
     margin-bottom: 1rem;
 }
@@ -458,7 +458,7 @@ h6 { font-size: var(--h6-size); }
 }
 
 .post-heading {
-    font-size: var(--h1-size);
+    font-size: 2.5rem;
     font-weight: 700;
     line-height: 1.2;
 }
@@ -493,6 +493,14 @@ h6 { font-size: var(--h6-size); }
 .post-date {
     font-size: 1rem;
     color: var(--terciary-color);
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+    margin-top: 2.5rem;
 }
 
 .post-content p {
@@ -585,6 +593,47 @@ h6 { font-size: var(--h6-size); }
 }
 .category-tag a:hover {
     text-decoration: underline;
+}
+
+/* ============================================
+   BOTÓN COPIAR CÓDIGO
+   ============================================ */
+
+.code-block-wrapper {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.code-block-wrapper figure.highlight {
+    margin-bottom: 0;
+}
+
+.copy-btn {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: var(--badge-color);
+    color: var(--font-color);
+    border: none;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-size: 0.75rem;
+    font-family: var(--body-font);
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.code-block-wrapper:hover .copy-btn {
+    opacity: 1;
+}
+
+.copy-btn:hover {
+    background: var(--separator-color);
+}
+
+.copy-btn.copied {
+    color: #4caf50;
 }
 
 /* ============================================
@@ -917,7 +966,7 @@ h6 { font-size: var(--h6-size); }
     }
 
     .post-heading {
-        font-size: 2rem;
+        font-size: 1.85rem;
     }
 
     .post-title {
