@@ -2,7 +2,6 @@
 layout: default
 ---
 {% assign meses = "Enero,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agosto,Septiembre,Octubre,Noviembre,Diciembre" | split: "," %}
-{% assign mes_num = post.date | date: "%m" | minus: 1 %}
 
 <div class="about-section">
 
@@ -37,6 +36,7 @@ layout: default
         {% unless post.status == 'pinned' or post.status == 'draft' %}
             <article class="post-item">
                 <h2 class="reset-link"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                {% assign mes_num = post.date | date: "%m" | minus: 1 %}
                 <p class="meta-info">    Publicado el {{ post.date | date: "%-d" }} de {{ meses[mes_num] }} de {{ post.date | date: "%Y" }}</p>
             </article>
         {% endunless %}
