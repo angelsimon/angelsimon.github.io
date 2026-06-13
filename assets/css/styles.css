@@ -133,8 +133,7 @@ blockquote p {
    ============================================ */
 
 /* 1. ESTILOS PARA CÓDIGO EN LÍNEA (INLINE CODE) */
-:not(pre) > code,
-:not(pre) code {
+:not(pre) > code {
     font-family: var(--monospace-font);
     background-color: var(--header-background-color);
     color: var(--link-color);
