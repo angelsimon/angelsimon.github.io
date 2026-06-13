@@ -498,6 +498,12 @@ h6 { font-size: var(--h6-size); }
     line-height: 1em;
 }
 
+.post-meta__separator {
+    color: var(--separator-color);
+    font-weight: 300;
+    font-size: 1.2em;
+}
+
 .post-date {
     font-size: 1rem;
     color: var(--terciary-color);
