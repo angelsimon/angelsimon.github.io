@@ -13,7 +13,8 @@ Un breve listado de todos los libros que leí, estoy leyendo (📌), recomiendo 
 
 ### 2026
 
-- El juego de Gerald ▪ Stephen King 📌
+- La mujer de negro ▪ Susan Hill 📌
+- El juego de Gerald ▪ Stephen King
 
 ### 2025
 
